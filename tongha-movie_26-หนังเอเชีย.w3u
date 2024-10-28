@@ -1,0 +1,93 @@
+{
+ "name": "หนังเอเชีย",
+ "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 02:28:31 เสร็จ 02:28:41",
+ "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
+ "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+ "groups": [
+  {
+   "name": "Heeramandi - เพชรงามเมือง (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/20240503144709pE15.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/20240503144709pE15.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/video/18103/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/20240503144709pE15.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/video/18104/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/20240503144709pE15.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/video/18105/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/20240503144709pE15.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/video/18106/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/20240503144709pE15.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/video/18107/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/20240503144709pE15.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/video/18108/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/20240503144709pE15.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/video/18109/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/20240503144709pE15.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5108/video/18110/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "My Zombabe - ต่อให้เป็นซอมบี้... ก็จะรัก (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5060/20240425123410pagD.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "My Zombabe - ต่อให้เป็นซอมบี้... ก็จะรัก (2024)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5060/20240425123410pagD.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5060/video/17971/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  }
+ ]
+}

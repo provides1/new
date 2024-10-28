@@ -1,0 +1,704 @@
+{
+ "name": "Big Cinima",
+ "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 01:36:02 เสร็จ 01:37:02",
+ "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
+ "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+ "groups": [
+  {
+   "name": "MISSION: IMPOSSIBLE - Dead Reckoning Part One - มิชชั่น:อิมพอสซิเบิ้ล ล่าพิกัดมรณะ ตอนที่หนึ่ง (2023)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4376/202307071747519GQe.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "MISSION: IMPOSSIBLE - Dead Reckoning Part One - มิชชั่น:อิมพอสซิเบิ้ล ล่าพิกัดมรณะ ตอนที่หนึ่ง (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4376/202307071747519GQe.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4376/video/13438/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Goodfellas - คนดีเหยียบฟ้า (1990)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3890/20230201113305gYXH.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Goodfellas - คนดีเหยียบฟ้า (1990)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3890/20230201113305gYXH.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3890/video/9858/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Scarface - มาเฟียหน้าบาก (1983)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3877/20230117144813GwCx.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Scarface - มาเฟียหน้าบาก (1983)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3877/20230117144813GwCx.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3877/video/9740/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Romeo + Juliet - วิลเลี่ยม เชคส์เปียร์ โรมิโอ+จูเลียต (1996)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3803/20230111134303PzaY.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Romeo + Juliet - วิลเลี่ยม เชคส์เปียร์ โรมิโอ+จูเลียต (1996)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3803/20230111134303PzaY.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3803/video/9607/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "The Patriot - เดอะ แพ็ทริออท (2000)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3786/20230110121415yS1t.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Patriot - เดอะ แพ็ทริออท (2000)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3786/20230110121415yS1t.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3786/video/9564/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Immortals  (2011) - เทพเจ้าธนูอมตะ (2011) (2011)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2968/20220708140603gXdg.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Immortals  (2011) - เทพเจ้าธนูอมตะ (2011) (2011)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2968/20220708140603gXdg.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2968/video/6586/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "The Twilight Saga: Breaking Dawn - Part 2   -  Part 2 แวมไพร์ทไวไลท์ 4 เบรคกิ้ง ดอว์น ภาค 2  (2012)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2721/2022061314422004Y6.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Twilight Saga: Breaking Dawn - Part 2   -  Part 2 แวมไพร์ทไวไลท์ 4 เบรคกิ้ง ดอว์น ภาค 2  (2012)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2721/2022061314422004Y6.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2721/video/5716/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "The Twilight Saga: Breaking Dawn - Part 1 ดอว์น ภาค 1  - แวมไพร์ ทไวไลท์ 4 เบรคกิ้ง ดอว์น ภาค 1  (2011)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2720/20220613141813XJ3M.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Twilight Saga: Breaking Dawn - Part 1 ดอว์น ภาค 1  - แวมไพร์ ทไวไลท์ 4 เบรคกิ้ง ดอว์น ภาค 1  (2011)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2720/20220613141813XJ3M.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2720/video/5715/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "The Twilight Saga: Eclipse  - แวมไพร์ ทไวไลท์ 3 อีคลิปส์ (2010)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2719/20220613135549RAW3.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Twilight Saga: Eclipse  - แวมไพร์ ทไวไลท์ 3 อีคลิปส์ (2010)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2719/20220613135549RAW3.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2719/video/5714/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "The Twilight Saga: New Moon   - แวมไพร์ ทไวไลท์ 2 นิวมูน  (2009)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2718/20220613134006Icso.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Twilight Saga: New Moon   - แวมไพร์ ทไวไลท์ 2 นิวมูน  (2009)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2718/20220613134006Icso.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2718/video/5713/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe - อภินิหารตำนานแห่งนาร์เนีย ตอน ราชสีห์, แม่มดกับตู้พิศวง (2005)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2606/20220606132943Axka.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe - อภินิหารตำนานแห่งนาร์เนีย ตอน ราชสีห์, แม่มดกับตู้พิศวง (2005)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2606/20220606132943Axka.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2606/video/5429/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Drive - ขับดิบ ขับเดือด ขับดุ  (2011)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2582/20220603163758U55S.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Drive - ขับดิบ ขับเดือด ขับดุ  (2011)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2582/20220603163758U55S.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2582/video/5399/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Independence Day ไอดี 4 สงครามวันดับโลก - Independence Day ไอดี 4 สงครามวันดับโลก  (1996)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2548/202206011445469EgF.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Independence Day ไอดี 4 สงครามวันดับโลก - Independence Day ไอดี 4 สงครามวันดับโลก  (1996)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2548/202206011445469EgF.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2548/video/5254/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Anaconda  - เลื้อยสยองโลก (1997)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2509/20220531151701JXc1.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Anaconda  - เลื้อยสยองโลก (1997)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2509/20220531151701JXc1.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2509/video/5193/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Con Air  -  ปฏิบัติการแหกนรกยึดฟ้า  (1997)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2487/2022053112492166oN.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Con Air  -  ปฏิบัติการแหกนรกยึดฟ้า  (1997)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2487/2022053112492166oN.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2487/video/5135/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Armageddon -  อาร์มาเกดดอน วันโลกาวินาศ  (1998)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2486/20220531124747nJud.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Armageddon -  อาร์มาเกดดอน วันโลกาวินาศ  (1998)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2486/20220531124747nJud.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2486/video/5134/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "The Godfather: Part III   - เดอะ ก็อดฟาเธอร์ ภาค 3  (1990)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2470/202205291709486zmq.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Godfather: Part III   - เดอะ ก็อดฟาเธอร์ ภาค 3  (1990)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2470/202205291709486zmq.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2470/video/5041/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "The Godfather: Part II - เดอะ ก็อดฟาเธอร์ ภาค 2 (1974)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2469/20220529170755DWSY.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Godfather: Part II - เดอะ ก็อดฟาเธอร์ ภาค 2 (1974)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2469/20220529170755DWSY.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2469/video/5040/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "The Godfather 1  -  เดอะ ก็อดฟาเธอร์ ภาค 1  (1972)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2468/20220529170430rA7E.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Godfather 1  -  เดอะ ก็อดฟาเธอร์ ภาค 1  (1972)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2468/20220529170430rA7E.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2468/video/5039/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Mission: Impossible - Fallout - มิชชั่น:อิมพอสซิเบิ้ล ฟอลล์เอาท์ (2018)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2449/20220528201848d5rp.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Mission: Impossible - Fallout - มิชชั่น:อิมพอสซิเบิ้ล ฟอลล์เอาท์ (2018)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2449/20220528201848d5rp.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2449/video/4980/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Mission: Impossible - Ghost Protocol   - มิชชั่น:อิมพอสซิเบิ้ล ปฏิบัติการไร้เงา (2011)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2447/20220528201356BCs4.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Mission: Impossible - Ghost Protocol   - มิชชั่น:อิมพอสซิเบิ้ล ปฏิบัติการไร้เงา (2011)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2447/20220528201356BCs4.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2447/video/4978/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Mission: Impossible III -  มิชชั่น:อิมพอสซิเบิ้ล ฝ่าปฏิบัติการสะท้านโลก 3  (2006)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2446/20220528201130i9VQ.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Mission: Impossible III -  มิชชั่น:อิมพอสซิเบิ้ล ฝ่าปฏิบัติการสะท้านโลก 3  (2006)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2446/20220528201130i9VQ.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2446/video/4977/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Mission: Impossible II  - มิชชั่น:อิมพอสซิเบิ้ล ฝ่าปฏิบัติการสะท้านโลก 2  (2000)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2445/20230721223104FA8b.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Mission: Impossible II  - มิชชั่น:อิมพอสซิเบิ้ล ฝ่าปฏิบัติการสะท้านโลก 2  (2000)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2445/20230721223104FA8b.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2445/video/12930/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Mission: Impossible - ผ่าปฏิบัติการสะท้านโลก (1996)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2444/20230721221724qaLN.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Mission: Impossible - ผ่าปฏิบัติการสะท้านโลก (1996)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2444/20230721221724qaLN.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2444/video/12929/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Forrest Gump -  ฟอร์เรสท์ กัมพ์ อัจฉริยะปัญญานิ่ม  (1994)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2359/20220517192514zZGE.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Forrest Gump -  ฟอร์เรสท์ กัมพ์ อัจฉริยะปัญญานิ่ม  (1994)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2359/20220517192514zZGE.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2359/video/4608/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Underworld: Blood Wars - มหาสงครามล้างพันธุ์อสูร5 (2016)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2262/20220504111805Op2G.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Underworld: Blood Wars - มหาสงครามล้างพันธุ์อสูร5 (2016)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2262/20220504111805Op2G.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2262/video/4178/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Underworld: Awakening - สงครามโค่นพันธุ์อสูร 4: กำเนิดใหม่ราชินีแวมไพร์ (2012)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2261/20220504111554JrRV.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Underworld: Awakening - สงครามโค่นพันธุ์อสูร 4: กำเนิดใหม่ราชินีแวมไพร์ (2012)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2261/20220504111554JrRV.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2261/video/4177/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Underworld: Rise of the Lycans - สงครามโค่นพันธุ์อสูร 3: ปลดแอกจอมทัพอสูร (2009)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2260/20220504111312ukJ3.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Underworld: Rise of the Lycans - สงครามโค่นพันธุ์อสูร 3: ปลดแอกจอมทัพอสูร (2009)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2260/20220504111312ukJ3.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2260/video/4176/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Underworld2 : Evolution - สงครามโค่นพันธุ์อสูร 2 อีโวลูชั่น (2006)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2259/20220504111131zZN5.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Underworld2 : Evolution - สงครามโค่นพันธุ์อสูร 2 อีโวลูชั่น (2006)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2259/20220504111131zZN5.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2259/video/4175/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Lord of the Rings The Return of the King - เดอะ ลอร์ด ออฟ เดอะ ริงส์ มหาสงครามชิงพิภพ (2003)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2012/20220128100802TSar.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Lord of the Rings The Return of the King - เดอะ ลอร์ด ออฟ เดอะ ริงส์ มหาสงครามชิงพิภพ (2003)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2012/20220128100802TSar.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2012/video/2633/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "The Lord of the Rings The Return of the King - เดอะ ลอร์ด ออฟ เดอะ ริงส์ มหาสงครามชิงพิภพ (2003)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2012/20220128100802TSar.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2012/video/8627/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Lord of the Rings The Two Towers - เดอะ ลอร์ด ออฟ เดอะ ริงส์ ศึกหอคอยคู่กู้พิภพ (2002)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2011/20220128100525TEpz.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Lord of the Rings The Two Towers - เดอะ ลอร์ด ออฟ เดอะ ริงส์ ศึกหอคอยคู่กู้พิภพ (2002)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2011/20220128100525TEpz.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2011/video/2632/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "The Lord of the Rings The Two Towers - เดอะ ลอร์ด ออฟ เดอะ ริงส์ ศึกหอคอยคู่กู้พิภพ (2002)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2011/20220128100525TEpz.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2011/video/8625/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Lord of the Rings The Fellowship of the Ring - เดอะ ลอร์ด ออฟ เดอะ ริงส์ อภินิหารแหวนครองพิภพ (2001)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2010/20220128100321M4uk.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Lord of the Rings The Fellowship of the Ring - เดอะ ลอร์ด ออฟ เดอะ ริงส์ อภินิหารแหวนครองพิภพ (2001)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2010/20220128100321M4uk.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2010/video/2634/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "The Lord of the Rings The Fellowship of the Ring - เดอะ ลอร์ด ออฟ เดอะ ริงส์ อภินิหารแหวนครองพิภพ (2001)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2010/20220128100321M4uk.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2010/video/8622/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Harry Potter 20th Anniversary: Return to Hogwarts - ครบรอบ 20 ปีแฮร์รี่ พอตเตอร์: คืนสู่เหย้าฮอกวอตส์ (2022)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1945/20220104141059dQzR.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Harry Potter 20th Anniversary: Return to Hogwarts - ครบรอบ 20 ปีแฮร์รี่ พอตเตอร์: คืนสู่เหย้าฮอกวอตส์ (2022)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1945/20220104141059dQzR.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1945/video/2386/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Harry Potter 7.2 and the Deathly Hallows Part 2 - แฮร์รี่ พอตเตอร์ กับ เครื่องรางยมฑูต (2011)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1843/20211014161546fC8J.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Harry Potter 7.2 and the Deathly Hallows Part 2 - แฮร์รี่ พอตเตอร์ กับ เครื่องรางยมฑูต (2011)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1843/20211014161546fC8J.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1843/video/2027/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Harry Potter 7.1 and the Deathly Hallows Part 1 - แฮร์รี่ พอตเตอร์ กับ เครื่องรางยมฑูต (2010)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1842/2021101416062189JE.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Harry Potter 7.1 and the Deathly Hallows Part 1 - แฮร์รี่ พอตเตอร์ กับ เครื่องรางยมฑูต (2010)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1842/2021101416062189JE.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1842/video/2026/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Harry Potter 6 and the Half-Blood Prince - แฮร์รี่ พอตเตอร์ กับเจ้าชายเลือดผสม (2009)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1841/20211014152813xkjz.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Harry Potter 6 and the Half-Blood Prince - แฮร์รี่ พอตเตอร์ กับเจ้าชายเลือดผสม (2009)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1841/20211014152813xkjz.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1841/video/2025/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Harry Potter 5 and the Order of the Phoenix - แฮร์รี่ พอตเตอร์ กับภาคีนกฟินิกซ์ (2007)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1840/202110141504388Y9o.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Harry Potter 5 and the Order of the Phoenix - แฮร์รี่ พอตเตอร์ กับภาคีนกฟินิกซ์ (2007)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1840/202110141504388Y9o.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1840/video/2024/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Harry Potter 4 and the Goblet of Fire - แฮร์รี่ พอตเตอร์ กับถ้วยอัคนี (2005)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1839/20211014145809LCfU.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Harry Potter 4 and the Goblet of Fire - แฮร์รี่ พอตเตอร์ กับถ้วยอัคนี (2005)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1839/20211014145809LCfU.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1839/video/2023/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Harry Potter 3 and the Prisoner of Azkaban - แฮร์รี่ พอตเตอร์ กับนักโทษแห่งอัซคาบัน (2004)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1838/20211014135959nlsI.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Harry Potter 3 and the Prisoner of Azkaban - แฮร์รี่ พอตเตอร์ กับนักโทษแห่งอัซคาบัน (2004)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1838/20211014135959nlsI.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1838/video/2022/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Harry Potter and the Sorcerer’s Stone  -  แฮร์รี่ พอตเตอร์ กับศิลาอาถรรพ์ ภาค 1 (2001)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1485/20210806230314cWph.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Harry Potter and the Sorcerer’s Stone  -  แฮร์รี่ พอตเตอร์ กับศิลาอาถรรพ์ ภาค 1 (2001)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1485/20210806230314cWph.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1485/video/1633/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Harry Potter and the Chamber of Secrets - แฮร์รี่ พอตเตอร์กับห้องแห่งความลับ ภาค 2 (2002)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1484/20210806230141w6S6.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Harry Potter and the Chamber of Secrets - แฮร์รี่ พอตเตอร์กับห้องแห่งความลับ ภาค 2 (2002)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1484/20210806230141w6S6.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1484/video/1635/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Parasite (2019) - ชนชั้นปรสิต (2019)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1339/20210805144756pjuU.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Parasite (2019) - ชนชั้นปรสิต (2019)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1339/20210805144756pjuU.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1339/video/1488/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Waterworld  -  วอเตอร์เวิลด์ ผ่าโลกมหาสมุทร (1995)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1209/20210803214609Vm69.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Waterworld  -  วอเตอร์เวิลด์ ผ่าโลกมหาสมุทร (1995)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1209/20210803214609Vm69.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1209/video/1355/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Titanic - ไททานิก (1997)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1183/20210803175458VrNm.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Titanic - ไททานิก (1997)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1183/20210803175458VrNm.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1183/video/1329/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Underworld - สงครามโค่นพันธุ์อสูร 1 (2003)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/658/20220504112140QaQy.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Underworld - สงครามโค่นพันธุ์อสูร 1 (2003)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/658/20220504112140QaQy.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/658/video/661/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "Underworld - สงครามโค่นพันธุ์อสูร 1 (2003)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/658/20220504112140QaQy.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/658/video/4174/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  }
+ ]
+}
