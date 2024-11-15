@@ -1,6 +1,6 @@
 {
  "name": "หนังคอนเสิร์ต",
- "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 01:57:12 เสร็จ 01:57:22",
+ "author": "เจียว เจียว อัพวันที่ 16 พฤศจิกายน 2567 เริ่ม 03:03:13 เสร็จ 03:03:31",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
@@ -62,6 +62,30 @@
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/20240910163721xcvO.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/video/19796/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/20240910163721xcvO.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/video/19847/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/20240910163721xcvO.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/video/19886/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/20240910163721xcvO.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/video/19924/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
