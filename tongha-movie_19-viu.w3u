@@ -1,6 +1,6 @@
 {
  "name": "viu",
- "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 01:38:05 เสร็จ 01:38:54",
+ "author": "เจียว เจียว อัพวันที่ 17 พฤศจิกายน 2567 เริ่ม 03:54:46 เสร็จ 03:55:29",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
@@ -63,6 +63,20 @@
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5314/20240912141530sCaA.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5314/video/19552/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Noryang: Deadly Sea - การรบครั้งสุดท้ายของอีซุนซิน ผู้ยิ่งใหญ่ (2023)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5306/20240909004520YVjk.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Noryang: Deadly Sea - การรบครั้งสุดท้ายของอีซุนซิน ผู้ยิ่งใหญ่ (2023)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5306/20240909004520YVjk.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5306/video/19500/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
     }
    ]
@@ -154,20 +168,6 @@
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5276/20240815173824raZD.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5276/video/19598/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
-    }
-   ]
-  },
-  {
-   "name": "Noryang: Deadly Sea - การรบครั้งสุดท้ายของอีซุนซิน ผู้ยิ่งใหญ่ (2023)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5306/20240909004520YVjk.jpg",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Noryang: Deadly Sea - การรบครั้งสุดท้ายของอีซุนซิน ผู้ยิ่งใหญ่ (2023)",
-     "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5306/20240909004520YVjk.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5306/video/19500/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
     }
    ]

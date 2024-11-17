@@ -1,6 +1,6 @@
 {
  "name": "HBO GO",
- "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 01:36:06 เสร็จ 01:37:34",
+ "author": "เจียว เจียว อัพวันที่ 17 พฤศจิกายน 2567 เริ่ม 03:48:21 เสร็จ 03:49:11",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
@@ -46,6 +46,30 @@
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/20240923221036jGt8.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/video/19797/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/20240923221036jGt8.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/video/19867/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/20240923221036jGt8.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/video/19885/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/20240923221036jGt8.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/video/19925/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
@@ -261,6 +285,21 @@
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4699/20240129130436E7hK.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4699/video/17575/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "River Wild - ล่องแก่งหายนะ (2023)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5386/20241108104851K6xn.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "River Wild - ล่องแก่งหายนะ (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5386/20241108104851K6xn.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5386/video/19898/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
    ]
   },

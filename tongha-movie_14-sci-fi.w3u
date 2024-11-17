@@ -1,21 +1,121 @@
 {
  "name": "หนังไซไฟ",
- "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 02:04:10 เสร็จ 02:11:00",
+ "author": "เจียว เจียว อัพวันที่ 17 พฤศจิกายน 2567 เริ่ม 09:26:12 เสร็จ 09:30:06",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
   {
    "name": "Transformers One - ทรานส์ฟอร์เมอร์ส 1 (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5335/202409281652537ett.jpg",
-   "info": "Zoom พากย์ไทย",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Transformers One - ทรานส์ฟอร์เมอร์ส 1 (2024)",
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5335/202409281652537ett.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5335/video/19814/hls/movie_3.m3u8",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5335/video/19842/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "Transformers One - ทรานส์ฟอร์เมอร์ส 1 (2024)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5335/202409281652537ett.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5335/video/19935/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Alita Battle Angel  -  อลิตา แบทเทิล แองเจิ้ล (2020)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/726/20210729165803mtfV.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Alita Battle Angel  -  อลิตา แบทเทิล แองเจิ้ล (2020)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/726/20210729165803mtfV.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/726/video/19909/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Apocalypse Z: The Beginning of the End - อะโพคาลิปซิส เซต้า: จุดเริ่มต้นของจุดจบ (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5379/20241031162747D0XC.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Apocalypse Z: The Beginning of the End - อะโพคาลิปซิส เซต้า: จุดเริ่มต้นของจุดจบ (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5379/20241031162747D0XC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5379/video/19856/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Superman & Lois Season 4 - ซูเปอร์แมน และ โลอิส ซีซั่น 4 (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/202410111240396Haj.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/202410111240396Haj.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/video/19702/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/202410111240396Haj.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/video/19703/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/202410111240396Haj.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/video/19829/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/202410111240396Haj.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/video/19830/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/202410111240396Haj.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/video/19912/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/202410111240396Haj.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/video/19913/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Venom: The Last Dance - เวน่อม: มหาศึกอสูรอหังการ (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5376/202410251408058Ebe.jpg",
+   "info": "Zoom พากย์ไทย",
+   "stations": [
+    {
+     "name": "Venom: The Last Dance - เวน่อม: มหาศึกอสูรอหังการ (2024)",
+     "info": "Zoom พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5376/202410251408058Ebe.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5376/video/19818/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -26,11 +126,10 @@
    "stations": [
     {
      "name": "The Moon - ปฏิบัติการพิชิตจันทร์ (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4471/202308310952490IAK.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4471/video/13311/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -96,31 +195,9 @@
    "stations": [
     {
      "name": "Alien: Romulus - เอเลี่ยน: โรมูลัส (2024)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5281/20240817231658tLr3.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5281/video/19742/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
-   "name": "Superman & Lois Season 4 - ซูเปอร์แมน และ โลอิส ซีซั่น 4 (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/202410111240396Haj.jpg",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/202410111240396Haj.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/video/19702/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/202410111240396Haj.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/video/19703/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
     }
    ]
@@ -132,11 +209,10 @@
    "stations": [
     {
      "name": "Taklee Genesis - ตาคลี เจเนซิส (2024)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5334/20240927141412Hlet.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5334/video/19629/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -271,27 +347,33 @@
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5312/20240911155607gQwp.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5312/video/19809/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
-    }
-   ]
-  },
-  {
-   "name": "Moonfall - วันวิบัติ จันทร์ถล่มโลก (2022)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/20220919235247QbyL.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Moonfall - วันวิบัติ จันทร์ถล่มโลก (2022)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/20220919235247QbyL.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/video/7336/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
     },
     {
-     "name": "Moonfall - วันวิบัติ จันทร์ถล่มโลก (2022)",
+     "name": "ตอนที่ 17",
      "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/20220919235247QbyL.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/video/19377/hls/movie_3.m3u8",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5312/20240911155607gQwp.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5312/video/19853/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5312/20240911155607gQwp.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5312/video/19854/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5312/20240911155607gQwp.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5312/video/19855/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5312/20240911155607gQwp.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5312/video/19857/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
     }
    ]
@@ -357,11 +439,10 @@
    "stations": [
     {
      "name": "Furiosa : A Mad Max Saga - ฟูริโอซ่า มหากาพย์แมดแม็กซ์ (2024)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5144/20240513150825tr2y.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5144/video/18557/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     },
     {
      "name": "Furiosa : A Mad Max Saga - ฟูริโอซ่า มหากาพย์แมดแม็กซ์ (2024)",
@@ -382,21 +463,6 @@
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5177/20240524175004okfn.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5177/video/18290/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
-   "name": "Rebel Moon - Part Two: The Scargiver - นักรบผู้ตีตรา  (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5050/20240419141530VSjk.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Rebel Moon - Part Two: The Scargiver - นักรบผู้ตีตรา  (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5050/20240419141530VSjk.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5050/video/17949/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
@@ -908,6 +974,21 @@
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5080/20240426172026ofMn.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5080/video/18020/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Rebel Moon - Part Two: The Scargiver - นักรบผู้ตีตรา  (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5050/20240419141530VSjk.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Rebel Moon - Part Two: The Scargiver - นักรบผู้ตีตรา  (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5050/20240419141530VSjk.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5050/video/17949/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
@@ -1804,12 +1885,12 @@
    ]
   },
   {
-   "name": "I.S.S.  - - (2023)",
+   "name": "I.S.S.(2023)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4778/20240212190113iiy3.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "I.S.S.  - - (2023)",
+     "name": "I.S.S.(2023)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4778/20240212190113iiy3.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4778/video/15783/hls/movie_3.m3u8",
@@ -3552,11 +3633,10 @@
    "stations": [
     {
      "name": "The Wandering Earth 2 - ฝ่ามหันตภัยเพลิงสุริยะ 2 (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4348/20230628095517UB4t.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4348/video/12302/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -4994,12 +5074,12 @@
    ]
   },
   {
-   "name": "Wifelike  - - (2022)",
+   "name": "Wifelike(2022)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3725/20221214215354xT2Z.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Wifelike  - - (2022)",
+     "name": "Wifelike(2022)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3725/20221214215354xT2Z.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3725/video/9321/hls/movie_3.m3u8",
@@ -5008,12 +5088,12 @@
    ]
   },
   {
-   "name": "The Lake  - - (2022)",
+   "name": "The Lake(2022)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3669/20221205040825CarL.jpg",
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "The Lake  - - (2022)",
+     "name": "The Lake(2022)",
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3669/20221205040825CarL.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3669/video/9143/hls/movie_3.m3u8",
@@ -5088,11 +5168,10 @@
    "stations": [
     {
      "name": "Project Wolf Hunting - เรือคลั่งเกมล่าเดนมนุษย์ (2022)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3512/20230318201507sU1q.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3512/video/8719/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -5209,6 +5288,28 @@
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3216/video/7482/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Moonfall - วันวิบัติ จันทร์ถล่มโลก (2022)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/20220919235247QbyL.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Moonfall - วันวิบัติ จันทร์ถล่มโลก (2022)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/20220919235247QbyL.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/video/7336/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "Moonfall - วันวิบัติ จันทร์ถล่มโลก (2022)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/20220919235247QbyL.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/video/19377/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -8237,20 +8338,6 @@
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/735/video/737/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
-   "name": "Alita Battle Angel (2019) อลิตา แบทเทิล แองเจิ้ล -  อลิตา แบทเทิล แองเจิ้ล (2020)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/726/20210729165803mtfV.jpg",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Alita Battle Angel (2019) อลิตา แบทเทิล แองเจิ้ล -  อลิตา แบทเทิล แองเจิ้ล (2020)",
-     "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/726/20210729165803mtfV.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/726/video/726/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
     }
    ]
   },

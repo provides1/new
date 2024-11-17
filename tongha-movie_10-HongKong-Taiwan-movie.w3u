@@ -1,6 +1,6 @@
 {
  "name": "หนังฮ่องกง-ไต้หวัน",
- "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 02:28:39 เสร็จ 02:30:58",
+ "author": "เจียว เจียว อัพวันที่ 17 พฤศจิกายน 2567 เริ่ม 12:10:38 เสร็จ 12:12:38",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
@@ -11,11 +11,10 @@
    "stations": [
     {
      "name": "Twilight of the Warriors: Walled In - เมืองพญายม ปิดบัญชียมบาล (2024)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5290/20240825175731pss4.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5290/video/19382/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -534,12 +533,12 @@
    ]
   },
   {
-   "name": "Grit  - - (2021)",
+   "name": "Grit(2021)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4004/20230222165650FYy0.jpg",
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "Grit  - - (2021)",
+     "name": "Grit(2021)",
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4004/20230222165650FYy0.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4004/video/10302/hls/movie_3.m3u8",
@@ -771,12 +770,12 @@
    ]
   },
   {
-   "name": "Minxiong Haunted House  - - (2022)",
+   "name": "Minxiong Haunted House(2022)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3607/20221123232846yWmz.jpg",
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "Minxiong Haunted House  - - (2022)",
+     "name": "Minxiong Haunted House(2022)",
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3607/20221123232846yWmz.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3607/video/8913/hls/movie_3.m3u8",
@@ -786,12 +785,12 @@
    ]
   },
   {
-   "name": "Kidnapped Soul  - - (2021)",
+   "name": "Kidnapped Soul(2021)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3600/202211230240527dVu.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Kidnapped Soul  - - (2021)",
+     "name": "Kidnapped Soul(2021)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3600/202211230240527dVu.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3600/video/8896/hls/movie_3.m3u8",
@@ -857,12 +856,12 @@
    ]
   },
   {
-   "name": "Cemara's Family 2  - - (2022)",
+   "name": "Cemara's Family 2(2022)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3480/20221102224301KX1z.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Cemara's Family 2  - - (2022)",
+     "name": "Cemara's Family 2(2022)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3480/20221102224301KX1z.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3480/video/8650/hls/movie_3.m3u8",
@@ -885,12 +884,12 @@
    ]
   },
   {
-   "name": "Late Night Ride  - - (2021)",
+   "name": "Late Night Ride(2021)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3475/20221102223042POFj.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Late Night Ride  - - (2021)",
+     "name": "Late Night Ride(2021)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3475/20221102223042POFj.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3475/video/8645/hls/movie_3.m3u8",
@@ -1438,12 +1437,12 @@
    ]
   },
   {
-   "name": "King Tweety  - - (2022)",
+   "name": "King Tweety(2022)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2908/20220704141900AINc.jpg",
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "King Tweety  - - (2022)",
+     "name": "King Tweety(2022)",
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2908/20220704141900AINc.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2908/video/6408/hls/movie_3.m3u8",
@@ -1642,12 +1641,12 @@
    ]
   },
   {
-   "name": "Nice View  - - (2022)",
+   "name": "Nice View(2022)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2626/20220606144436epwZ.jpg",
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "Nice View  - - (2022)",
+     "name": "Nice View(2022)",
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2626/20220606144436epwZ.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2626/video/5453/hls/movie_3.m3u8",

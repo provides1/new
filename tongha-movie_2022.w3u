@@ -1,6 +1,6 @@
 {
  "name": "หนังเข้าฉายปี 2022",
- "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 01:39:32 เสร็จ 01:57:00",
+ "author": "เจียว เจียว อัพวันที่ 17 พฤศจิกายน 2567 เริ่ม 04:17:04 เสร็จ 04:30:05",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
@@ -211,27 +211,26 @@
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3370/20241007105754G3Jb.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3370/video/19784/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
-    }
-   ]
-  },
-  {
-   "name": "Moonfall - วันวิบัติ จันทร์ถล่มโลก (2022)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/20220919235247QbyL.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Moonfall - วันวิบัติ จันทร์ถล่มโลก (2022)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/20220919235247QbyL.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/video/7336/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
     },
     {
-     "name": "Moonfall - วันวิบัติ จันทร์ถล่มโลก (2022)",
+     "name": "ตอนที่ 30",
      "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/20220919235247QbyL.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/video/19377/hls/movie_3.m3u8",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3370/20241007105754G3Jb.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3370/video/19834/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 31",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3370/20241007105754G3Jb.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3370/video/19874/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3370/20241007105754G3Jb.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3370/video/19921/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
     }
    ]
@@ -253,6 +252,20 @@
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3928/20230207121858B0kY.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3928/video/18441/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Devil Conspiracy - เดอะ เดวิล คอนสไปเรซี่ (2022)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5394/20241115164750SVjy.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Devil Conspiracy - เดอะ เดวิล คอนสไปเรซี่ (2022)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5394/20241115164750SVjy.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5394/video/19942/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
     }
    ]
@@ -10201,11 +10214,10 @@
    "stations": [
     {
      "name": "Project Wolf Hunting - เรือคลั่งเกมล่าเดนมนุษย์ (2022)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3512/20230318201507sU1q.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3512/video/8719/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -13489,6 +13501,28 @@
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3195/video/7387/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Moonfall - วันวิบัติ จันทร์ถล่มโลก (2022)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/20220919235247QbyL.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Moonfall - วันวิบัติ จันทร์ถล่มโลก (2022)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/20220919235247QbyL.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/video/7336/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "Moonfall - วันวิบัติ จันทร์ถล่มโลก (2022)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/20220919235247QbyL.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3192/video/19377/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },

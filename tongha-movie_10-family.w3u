@@ -1,6 +1,6 @@
 {
  "name": "หนังครอบครัว",
- "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 01:42:58 เสร็จ 01:47:23",
+ "author": "เจียว เจียว อัพวันที่ 17 พฤศจิกายน 2567 เริ่ม 08:59:23 เสร็จ 09:01:23",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
@@ -26,11 +26,10 @@
    "stations": [
     {
      "name": "The Wild Robot - หุ่นยนต์ผจญภัยในป่ากว้าง (2024)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5367/20241020161758rRkr.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5367/video/19790/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -65,6 +64,48 @@
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/20241015105835g1Iw.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/video/19794/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/20241015105835g1Iw.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/video/19835/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/20241015105835g1Iw.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/video/19843/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/20241015105835g1Iw.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/video/19883/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/20241015105835g1Iw.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/video/19884/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/20241015105835g1Iw.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/video/19926/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/20241015105835g1Iw.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/video/19927/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
     }
    ]
@@ -253,21 +294,6 @@
    ]
   },
   {
-   "name": "Arthur the King - อาเธอร์ จอมราชา (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5284/202408191657091qhb.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Arthur the King - อาเธอร์ จอมราชา (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5284/202408191657091qhb.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5284/video/19282/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
    "name": "Despicable Me 4 - มิสเตอร์แสบ ร้ายเกินพิกัด 4 (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5272/20240813161431SsZi.jpg",
    "info": "พากย์ไทย",
@@ -289,26 +315,10 @@
    "stations": [
     {
      "name": "Inside Out 2 - มหัศจรรย์อารมณ์อลเวง 2 (2024)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5207/20240623144837epOy.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5207/video/18499/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
-   "name": "Chinatown Chacha - ไชน่าทาวน์ ชะช่า (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5204/20240619122654h8id.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Chinatown Chacha - ไชน่าทาวน์ ชะช่า (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5204/20240619122654h8id.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5204/video/18482/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -319,9 +329,23 @@
    "stations": [
     {
      "name": "Doraemon the Movie: Nobita's Earth Symphony - โดราเอมอน เดอะ มูฟวี่ : โลกแห่งซิมโฟนี่ของโนบิตะ (2024)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5345/20241007170703SXJm.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5345/video/19683/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Arthur the King - อาเธอร์ จอมราชา (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5284/202408191657091qhb.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Arthur the King - อาเธอร์ จอมราชา (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5284/202408191657091qhb.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5284/video/19282/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
@@ -377,6 +401,21 @@
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5217/20240707154330caRp.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5217/video/18849/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Chinatown Chacha - ไชน่าทาวน์ ชะช่า (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5204/20240619122654h8id.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Chinatown Chacha - ไชน่าทาวน์ ชะช่า (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5204/20240619122654h8id.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5204/video/18482/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
@@ -440,7 +479,7 @@
    ]
   },
   {
-   "name": " LTNS  - - (2024)",
+   "name": " LTNS(2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4663/20240125114952o0zi.jpg",
    "info": "ซับไทย",
    "stations": [
@@ -972,11 +1011,10 @@
    "stations": [
     {
      "name": "The Little Mermaid - เงือกน้อยผจญภัย (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4266/20230530105513dEGP.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4266/video/11492/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -1102,7 +1140,7 @@
    ]
   },
   {
-   "name": "Family The Unbreakable Bond  - - (2023)",
+   "name": "Family The Unbreakable Bond(2023)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4214/20230508172720I3Dk.jpg",
    "info": "ซับไทย",
    "stations": [
@@ -1266,12 +1304,12 @@
    ]
   },
   {
-   "name": "Cursed Friends  - - (2022)",
+   "name": "Cursed Friends(2022)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3744/20221229134605ylUt.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Cursed Friends  - - (2022)",
+     "name": "Cursed Friends(2022)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3744/20221229134605ylUt.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3744/video/9443/hls/movie_3.m3u8",
@@ -1295,12 +1333,12 @@
    ]
   },
   {
-   "name": "Weekend Family Christmas Special  - - (2022)",
+   "name": "Weekend Family Christmas Special(2022)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3724/20221214214958B0t3.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Weekend Family Christmas Special  - - (2022)",
+     "name": "Weekend Family Christmas Special(2022)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3724/20221214214958B0t3.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3724/video/9320/hls/movie_3.m3u8",
@@ -1309,12 +1347,12 @@
    ]
   },
   {
-   "name": "Just Love and a Thousand Songs  - - (2022)",
+   "name": "Just Love and a Thousand Songs(2022)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3723/20221214214708edH8.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Just Love and a Thousand Songs  - - (2022)",
+     "name": "Just Love and a Thousand Songs(2022)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3723/20221214214708edH8.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3723/video/9319/hls/movie_3.m3u8",
@@ -1323,12 +1361,12 @@
    ]
   },
   {
-   "name": "Pentatonix: Around the World for the Holidays  - - (2022)",
+   "name": "Pentatonix: Around the World for the Holidays(2022)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3671/20221205203510S8th.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Pentatonix: Around the World for the Holidays  - - (2022)",
+     "name": "Pentatonix: Around the World for the Holidays(2022)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3671/20221205203510S8th.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3671/video/9153/hls/movie_3.m3u8",
@@ -1466,12 +1504,12 @@
    ]
   },
   {
-   "name": "Spirited  - - (2022)",
+   "name": "Spirited(2022)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3574/20221120215549J14R.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Spirited  - - (2022)",
+     "name": "Spirited(2022)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3574/20221120215549J14R.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3574/video/8862/hls/movie_3.m3u8",
@@ -1495,12 +1533,12 @@
    ]
   },
   {
-   "name": "The Wolf and the Lion  - - (2021)",
+   "name": "The Wolf and the Lion(2021)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3559/20221119211432XKln.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "The Wolf and the Lion  - - (2021)",
+     "name": "The Wolf and the Lion(2021)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3559/20221119211432XKln.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3559/video/8830/hls/movie_3.m3u8",
@@ -1537,12 +1575,12 @@
    ]
   },
   {
-   "name": "Sofia The First: The Mystic Isles  - - (2017)",
+   "name": "Sofia The First: The Mystic Isles(2017)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3510/20221107014252P4Pp.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Sofia The First: The Mystic Isles  - - (2017)",
+     "name": "Sofia The First: The Mystic Isles(2017)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3510/20221107014252P4Pp.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3510/video/8717/hls/movie_3.m3u8",
@@ -1551,12 +1589,12 @@
    ]
   },
   {
-   "name": "Cow Belles  - - (2006)",
+   "name": "Cow Belles(2006)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3509/20221107014147ONlP.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Cow Belles  - - (2006)",
+     "name": "Cow Belles(2006)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3509/20221107014147ONlP.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3509/video/8716/hls/movie_3.m3u8",
@@ -1565,12 +1603,12 @@
    ]
   },
   {
-   "name": "Mystery of the Kingdom of God  - - (2021)",
+   "name": "Mystery of the Kingdom of God(2021)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3496/20221105202239bY8f.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Mystery of the Kingdom of God  - - (2021)",
+     "name": "Mystery of the Kingdom of God(2021)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3496/20221105202239bY8f.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3496/video/8678/hls/movie_3.m3u8",
@@ -1579,12 +1617,12 @@
    ]
   },
   {
-   "name": "Halloweentown II: Kalabar's Revenge  - - (2001)",
+   "name": "Halloweentown II: Kalabar's Revenge(2001)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3492/20221105195901cuxJ.jpg",
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "Halloweentown II: Kalabar's Revenge  - - (2001)",
+     "name": "Halloweentown II: Kalabar's Revenge(2001)",
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3492/20221105195901cuxJ.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3492/video/8675/hls/movie_3.m3u8",
@@ -1594,12 +1632,12 @@
    ]
   },
   {
-   "name": "Cemara's Family 2  - - (2022)",
+   "name": "Cemara's Family 2(2022)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3480/20221102224301KX1z.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Cemara's Family 2  - - (2022)",
+     "name": "Cemara's Family 2(2022)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3480/20221102224301KX1z.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3480/video/8650/hls/movie_3.m3u8",
@@ -2354,12 +2392,12 @@
    ]
   },
   {
-   "name": "King Tweety  - - (2022)",
+   "name": "King Tweety(2022)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2908/20220704141900AINc.jpg",
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "King Tweety  - - (2022)",
+     "name": "King Tweety(2022)",
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2908/20220704141900AINc.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2908/video/6408/hls/movie_3.m3u8",
@@ -2414,12 +2452,12 @@
    ]
   },
   {
-   "name": "Snow Day  - - (2000)",
+   "name": "Snow Day(2000)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2789/20220617201643ogfA.jpg",
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "Snow Day  - - (2000)",
+     "name": "Snow Day(2000)",
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2789/20220617201643ogfA.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2789/video/5953/hls/movie_3.m3u8",
@@ -2693,12 +2731,12 @@
    ]
   },
   {
-   "name": "The Scary of Sixty-First  - - (2021)",
+   "name": "The Scary of Sixty-First(2021)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1940/20211226174904BRuR.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "The Scary of Sixty-First  - - (2021)",
+     "name": "The Scary of Sixty-First(2021)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1940/20211226174904BRuR.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1940/video/2357/hls/movie_3.m3u8",
@@ -2707,12 +2745,12 @@
    ]
   },
   {
-   "name": "Mariah's Christmas: The Magic Continues  - - (2021) ซับนอก",
+   "name": "Mariah's Christmas: The Magic Continues(2021) ซับนอก",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1937/20211224141019mMSC.jpg",
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "Mariah's Christmas: The Magic Continues  - - (2021) ซับนอก",
+     "name": "Mariah's Christmas: The Magic Continues(2021) ซับนอก",
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1937/20211224141019mMSC.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1937/video/2354/hls/movie_3.m3u8",

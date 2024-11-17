@@ -1,31 +1,9 @@
 {
  "name": "หนังกีฬา",
- "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 01:39:24 เสร็จ 01:40:41",
+ "author": "เจียว เจียว อัพวันที่ 17 พฤศจิกายน 2567 เริ่ม 04:01:30 เสร็จ 04:02:39",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
-  {
-   "name": "Blue Lock: Episode Nagi - บลูล็อค เดอะ มูฟวี่ ภาค นางิ (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/20240725135859TAgC.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Blue Lock: Episode Nagi - บลูล็อค เดอะ มูฟวี่ ภาค นางิ (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/20240725135859TAgC.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/video/19571/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    },
-    {
-     "name": "Blue Lock: Episode Nagi - บลูล็อค เดอะ มูฟวี่ ภาค นางิ (2024)",
-     "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/20240725135859TAgC.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/video/19804/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
-    }
-   ]
-  },
   {
    "name": "MF Ghost Season 2 - เอ็มเอฟ โกสต์ ซีซั่น 2 (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/202410151419185sGu.jpg",
@@ -50,6 +28,27 @@
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/202410151419185sGu.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/video/19793/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/202410151419185sGu.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/video/19837/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/202410151419185sGu.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/video/19879/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/202410151419185sGu.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/video/19923/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
     }
    ]
@@ -79,6 +78,49 @@
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19782/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19833/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19875/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19920/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Blue Lock: Episode Nagi - บลูล็อค เดอะ มูฟวี่ ภาค นางิ (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/20240725135859TAgC.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Blue Lock: Episode Nagi - บลูล็อค เดอะ มูฟวี่ ภาค นางิ (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/20240725135859TAgC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/video/19571/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "Blue Lock: Episode Nagi - บลูล็อค เดอะ มูฟวี่ ภาค นางิ (2024)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/20240725135859TAgC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/video/19804/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -89,11 +131,10 @@
    "stations": [
     {
      "name": "Haikyuu!! The Dumpster Battle - ไฮคิว!! คู่ตบฟ้าประทาน ตอน ศึกที่กองขยะ (2024)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5212/20240629143012G4l2.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5212/video/18552/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },

@@ -1,6 +1,6 @@
 {
  "name": "หนังอินเดีย",
- "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 02:27:33 เสร็จ 02:29:03",
+ "author": "เจียว เจียว อัพวันที่ 17 พฤศจิกายน 2567 เริ่ม 11:50:43 เสร็จ 11:55:02",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
@@ -306,12 +306,12 @@
    ]
   },
   {
-   "name": "Shehzada  - - (2023)",
+   "name": "Shehzada(2023)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4174/202304181543523YFi.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Shehzada  - - (2023)",
+     "name": "Shehzada(2023)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4174/202304181543523YFi.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4174/video/11036/hls/movie_3.m3u8",
@@ -320,12 +320,12 @@
    ]
   },
   {
-   "name": "Goodbye  - - (2022)",
+   "name": "Goodbye(2022)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3672/20221205203940XHE0.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Goodbye  - - (2022)",
+     "name": "Goodbye(2022)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3672/20221205203940XHE0.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3672/video/9154/hls/movie_3.m3u8",
@@ -349,12 +349,12 @@
    ]
   },
   {
-   "name": "Marakkar: Lion of the Arabian Sea  - - (2021)",
+   "name": "Marakkar: Lion of the Arabian Sea(2021)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3495/20221105202128hZ6P.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Marakkar: Lion of the Arabian Sea  - - (2021)",
+     "name": "Marakkar: Lion of the Arabian Sea(2021)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3495/20221105202128hZ6P.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3495/video/8679/hls/movie_3.m3u8",
@@ -701,12 +701,12 @@
    ]
   },
   {
-   "name": "Yuvarathnaa  - - (2021)",
+   "name": "Yuvarathnaa(2021)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2731/20220613173038PjuZ.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Yuvarathnaa  - - (2021)",
+     "name": "Yuvarathnaa(2021)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2731/20220613173038PjuZ.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2731/video/5726/hls/movie_3.m3u8",

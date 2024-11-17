@@ -1,24 +1,9 @@
 {
  "name": "หนังการ์ตูน",
- "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 01:39:20 เสร็จ 01:46:24",
+ "author": "เจียว เจียว อัพวันที่ 17 พฤศจิกายน 2567 เริ่ม 03:56:09 เสร็จ 04:01:16",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
-  {
-   "name": "Detective Conan: The Million-Dollar Pentagram - ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 27: ปริศนาปราการ 5 แฉก (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5373/20241024110621gItZ.jpg",
-   "info": "Zoom พากย์ไทย",
-   "stations": [
-    {
-     "name": "Detective Conan: The Million-Dollar Pentagram - ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 27: ปริศนาปราการ 5 แฉก (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5373/20241024110621gItZ.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5373/video/19813/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
   {
    "name": "Rurouni Kenshin: Kyoto Disturbance - ซามูไรพเนจร: บทการปฎิวัติในเกียวโต (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/20241011113353UWyC.jpg",
@@ -43,6 +28,48 @@
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/20241011113353UWyC.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/video/19758/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/20241011113353UWyC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/video/19815/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/20241011113353UWyC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/video/19862/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/20241011113353UWyC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/video/19894/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/20241011113353UWyC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/video/19937/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Detective Conan: The Million-Dollar Pentagram - ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 27: ปริศนาปราการ 5 แฉก (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5373/20241024110621gItZ.jpg",
+   "info": "Zoom พากย์ไทย",
+   "stations": [
+    {
+     "name": "Detective Conan: The Million-Dollar Pentagram - ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 27: ปริศนาปราการ 5 แฉก (2024)",
+     "info": "Zoom พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5373/20241024110621gItZ.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5373/video/19813/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
     }
    ]
@@ -314,32 +341,16 @@
    ]
   },
   {
-   "name": "The Garfield Movie - เดอะ การ์ฟิลด์ มูฟวี่ (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5178/20240527102503Odle.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "The Garfield Movie - เดอะ การ์ฟิลด์ มูฟวี่ (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5178/20240527102503Odle.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5178/video/18589/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
    "name": "Doraemon the Movie: Nobita's Earth Symphony - โดราเอมอน เดอะ มูฟวี่ : โลกแห่งซิมโฟนี่ของโนบิตะ (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5345/20241007170703SXJm.jpg",
    "info": "Zoom พากย์ไทย",
    "stations": [
     {
      "name": "Doraemon the Movie: Nobita's Earth Symphony - โดราเอมอน เดอะ มูฟวี่ : โลกแห่งซิมโฟนี่ของโนบิตะ (2024)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5345/20241007170703SXJm.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5345/video/19683/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -634,11 +645,10 @@
    "stations": [
     {
      "name": "Shin Jigen! Crayon Shin-chan the Movie - ชินจัง เดอะมูฟวี่ มหาสงครามซุปเปอร์พลังจิตซูชิเหินเวหา (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5198/20240611091853s0lF.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5198/video/18442/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -1051,6 +1061,21 @@
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5186/20240604180318CMfe.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5186/video/18352/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "The Garfield Movie - เดอะ การ์ฟิลด์ มูฟวี่ (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5178/20240527102503Odle.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Garfield Movie - เดอะ การ์ฟิลด์ มูฟวี่ (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5178/20240527102503Odle.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5178/video/18589/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }

@@ -1,24 +1,9 @@
 {
  "name": "paramount+",
- "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 01:36:18 เสร็จ 01:37:03",
+ "author": "เจียว เจียว อัพวันที่ 17 พฤศจิกายน 2567 เริ่ม 03:53:51 เสร็จ 03:54:35",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
-  {
-   "name": "Arthur the King - อาเธอร์ จอมราชา (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5284/202408191657091qhb.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Arthur the King - อาเธอร์ จอมราชา (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5284/202408191657091qhb.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5284/video/19282/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
   {
    "name": "Criminal Minds Season 17 - อ่านเกมอาชญากร ซีซั่น 17 (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5221/20240710165649acFO.jpg",
@@ -240,6 +225,21 @@
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5285/20240822151620zRMr.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5285/video/19341/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Arthur the King - อาเธอร์ จอมราชา (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5284/202408191657091qhb.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Arthur the King - อาเธอร์ จอมราชา (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5284/202408191657091qhb.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5284/video/19282/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
    ]
   },

@@ -1,6 +1,6 @@
 {
  "name": "หนังเข้าฉายปี 2023",
- "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 01:40:30 เสร็จ 01:54:40",
+ "author": "เจียว เจียว อัพวันที่ 17 พฤศจิกายน 2567 เริ่ม 04:17:07 เสร็จ 04:28:38",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
@@ -11,11 +11,10 @@
    "stations": [
     {
      "name": "The Moon - ปฏิบัติการพิชิตจันทร์ (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4471/202308310952490IAK.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4471/video/13311/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -409,21 +408,6 @@
    ]
   },
   {
-   "name": "Death Whisperer Tee Yod - ธี่หยด (2023)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4710/20240130124821G064.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Death Whisperer Tee Yod - ธี่หยด (2023)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4710/20240130124821G064.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4710/video/17666/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
    "name": "The Undertaker - สัปเหร่อ (2023)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4707/20240130115352YPpJ.jpg",
    "info": "พากย์ไทย",
@@ -448,6 +432,21 @@
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4555/20231222153045raN1.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4555/video/13725/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "River Wild - ล่องแก่งหายนะ (2023)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5386/20241108104851K6xn.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "River Wild - ล่องแก่งหายนะ (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5386/20241108104851K6xn.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5386/video/19898/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
@@ -595,11 +594,10 @@
    "stations": [
     {
      "name": "Shin Jigen! Crayon Shin-chan the Movie - ชินจัง เดอะมูฟวี่ มหาสงครามซุปเปอร์พลังจิตซูชิเหินเวหา (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5198/20240611091853s0lF.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5198/video/18442/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -1424,11 +1422,10 @@
    "stations": [
     {
      "name": "Digimon Adventure 02: The Beginning - ดิจิม่อน02มิตรภาพของเด็กผู้ถูกเลือกกับเหล่าดิจิมอนที่หม่นเศร้าและงดงาม (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5012/202404031519061Heo.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5012/video/17570/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -6856,6 +6853,21 @@
    ]
   },
   {
+   "name": "Death Whisperer Tee Yod - ธี่หยด (2023)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4710/20240130124821G064.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Death Whisperer Tee Yod - ธี่หยด (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4710/20240130124821G064.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4710/video/17666/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
    "name": "Z.1 The Forbidden Play  - หลุมหลอนซ่อนคำสาป (2023)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4709/20240130122455s2hw.jpg",
    "info": "พากย์ไทย",
@@ -8970,11 +8982,10 @@
    "stations": [
     {
      "name": "Z.1 Ransomed  - คู่ระห่ำ ไถ่ข้ามโลก (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4600/20240116080214dudP.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4600/video/14107/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -10902,11 +10913,10 @@
    "stations": [
     {
      "name": "Wonka - วองก้า (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4539/202312121158087mI0.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4539/video/13678/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -11144,11 +11154,10 @@
    "stations": [
     {
      "name": "Wish - พรมหัศจรรย์ (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4530/20231129150200lDVV.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4530/video/13606/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -12364,11 +12373,10 @@
    "stations": [
     {
      "name": "Expend4bles - โคตรคนทีมมหากาฬ 4 (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4500/20231015185712XHEy.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4500/video/13442/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -13068,11 +13076,10 @@
    "stations": [
     {
      "name": "Ninja vs Shark - นินจา ปะทะ ฉลาม (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4479/20230906172833VQKy.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4479/video/13338/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -16570,11 +16577,10 @@
    "stations": [
     {
      "name": "The Wandering Earth 2 - ฝ่ามหันตภัยเพลิงสุริยะ 2 (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4348/20230628095517UB4t.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4348/video/12302/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -16797,11 +16803,10 @@
    "stations": [
     {
      "name": "Hypnotic - จิตบงการปล้น  (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4338/202306270913498TYa.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4338/video/12235/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -18162,11 +18167,10 @@
    "stations": [
     {
      "name": "The Little Mermaid - เงือกน้อยผจญภัย (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4266/20230530105513dEGP.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4266/video/11492/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -18192,11 +18196,10 @@
    "stations": [
     {
      "name": "The Tank  - ท่อสยองพันธุ์ขย้ำ  (2023)",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4263/20230529172501NG7E.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4263/video/11464/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -19182,11 +19185,10 @@
    "stations": [
     {
      "name": "Z.1 Hidden Blade - โค่นคมพยัคฆ์ (2023) ซับนอก",
-     "info": "พากย์ไทย",
+     "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4202/20230502145209stIz.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4202/video/11125/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
