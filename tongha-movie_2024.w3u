@@ -1,9 +1,213 @@
 {
  "name": "หนังเข้าฉายปี 2024",
- "author": "เจียว เจียว อัพวันที่ 17 พฤศจิกายน 2567 เริ่ม 04:18:31 เสร็จ 04:27:03",
+ "author": "เจียว เจียว อัพวันที่ 18 พฤศจิกายน 2567 เริ่ม 14:38:10 เสร็จ 14:46:56",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
+  {
+   "name": "Ma Da: The Drowning Spirit - วิญญาณอาถรรพ์แม่น้ำโขง (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5397/20241118114226AwEy.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Ma Da: The Drowning Spirit - วิญญาณอาถรรพ์แม่น้ำโขง (2024)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5397/20241118114226AwEy.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5397/video/19973/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Cross Season 1 - ครอส ซีซั่น 1 (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/202411181051304slV.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/202411181051304slV.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/video/19961/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/202411181051304slV.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/video/19962/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/202411181051304slV.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/video/19963/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/202411181051304slV.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/video/19964/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/202411181051304slV.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/video/19966/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/202411181051304slV.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/video/19967/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/202411181051304slV.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/video/19970/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/202411181051304slV.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5396/video/19972/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Ranma ½ - รันม่า 1/2 ไอ้หนุ่มกังฟู (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/20241006170356yNZS.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/20241006170356yNZS.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/video/19678/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/20241006170356yNZS.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/video/19711/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/20241006170356yNZS.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/video/19783/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/20241006170356yNZS.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/video/19832/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/20241006170356yNZS.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/video/19878/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/20241006170356yNZS.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/video/19922/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/20241006170356yNZS.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/video/19959/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "blue lock season 2 VS. U-20 JAPAN - ขังดวลแข้ง (ภาค2) (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19670/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19712/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19782/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19833/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19875/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19920/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19955/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
   {
    "name": "Dragon Ball DAIMA - ดราก้อนบอล ไดมะ  (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5353/20241012113745NxMX.jpg",
@@ -79,6 +283,30 @@
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5395/20241115175100U0bn.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5395/video/19949/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5395/20241115175100U0bn.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5395/video/19965/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5395/20241115175100U0bn.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5395/video/19968/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5395/20241115175100U0bn.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5395/video/19969/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
@@ -417,6 +645,13 @@
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5391/20241113142111SQLX.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5391/video/19950/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5391/20241113142111SQLX.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5391/video/19971/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -590,6 +825,14 @@
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/video/19924/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/20240910163721xcvO.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/video/19977/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
    ]
   },
@@ -639,109 +882,12 @@
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/202410151419185sGu.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/video/19923/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
-    }
-   ]
-  },
-  {
-   "name": "Ranma ½ - รันม่า 1/2 ไอ้หนุ่มกังฟู (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/20241006170356yNZS.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/20241006170356yNZS.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/video/19678/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
     },
     {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/20241006170356yNZS.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/video/19711/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/20241006170356yNZS.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/video/19783/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/20241006170356yNZS.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/video/19832/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/20241006170356yNZS.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/video/19878/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/20241006170356yNZS.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5344/video/19922/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
-   "name": "blue lock season 2 VS. U-20 JAPAN - ขังดวลแข้ง (ภาค2) (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
+     "name": "ตอนที่ 7",
      "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19670/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19712/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19782/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19833/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19875/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19920/hls/movie_3.m3u8",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/202410151419185sGu.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/video/19956/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
     }
    ]
@@ -1413,6 +1559,13 @@
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/202410111240396Haj.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/video/19913/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/202410111240396Haj.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5351/video/19974/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -1826,6 +1979,20 @@
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/20241015105835g1Iw.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/video/19927/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/20241015105835g1Iw.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/video/19975/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/20241015105835g1Iw.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5355/video/19976/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
     }
    ]
@@ -9420,12 +9587,12 @@
    ]
   },
   {
-   "name": "Trinil  - - (2024)",
+   "name": "Trinil(2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5132/20240510125102r8jM.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Trinil  - - (2024)",
+     "name": "Trinil(2024)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5132/20240510125102r8jM.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5132/video/18173/hls/movie_3.m3u8",
@@ -11775,12 +11942,12 @@
    ]
   },
   {
-   "name": "Killing for Extra Credit  - - (2024)",
+   "name": "Killing for Extra Credit(2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4990/2024032912310917ds.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Killing for Extra Credit  - - (2024)",
+     "name": "Killing for Extra Credit(2024)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4990/2024032912310917ds.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4990/video/17529/hls/movie_3.m3u8",
@@ -15726,12 +15893,12 @@
    ]
   },
   {
-   "name": "Cult Killer  - - (2024)",
+   "name": "Cult Killer(2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4777/20240212184920Mcnh.jpg",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "Cult Killer  - - (2024)",
+     "name": "Cult Killer(2024)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4777/20240212184920Mcnh.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4777/video/15782/hls/movie_3.m3u8",
@@ -16558,7 +16725,7 @@
    ]
   },
   {
-   "name": " LTNS  - - (2024)",
+   "name": " LTNS(2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4663/20240125114952o0zi.jpg",
    "info": "ซับไทย",
    "stations": [
