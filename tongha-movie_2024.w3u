@@ -1,9 +1,91 @@
 {
  "name": "หนังเข้าฉายปี 2024",
- "author": "เจียว เจียว อัพวันที่ 18 พฤศจิกายน 2567 เริ่ม 14:38:10 เสร็จ 14:46:56",
+ "author": "เจียว เจียว อัพวันที่ 19 พฤศจิกายน 2567 เริ่ม 15:10:32 เสร็จ 15:19:52",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
+  {
+   "name": "The Cage (La Cage) Season 1 - เดอะ เคจ Season 1 (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5400/20241119103731TceO.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5400/20241119103731TceO.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5400/video/19989/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5400/20241119103731TceO.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5400/video/19990/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5400/20241119103731TceO.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5400/video/19991/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5400/20241119103731TceO.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5400/video/19992/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5400/20241119103731TceO.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5400/video/19993/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Wingman - วิงแมน (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5398/20241118162703gmsp.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5398/20241118162703gmsp.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5398/video/19978/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5398/20241118162703gmsp.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5398/video/19979/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5398/20241118162703gmsp.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5398/video/19980/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5398/20241118162703gmsp.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5398/video/19988/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
   {
    "name": "Ma Da: The Drowning Spirit - วิญญาณอาถรรพ์แม่น้ำโขง (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5397/20241118114226AwEy.jpg",
@@ -5639,6 +5721,27 @@
      "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4926/20240320142530LGnu.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4926/video/16944/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Marry You - เมอรี่ ยู (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5399/20241118170712VWjV.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5399/20241118170712VWjV.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5399/video/19984/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5399/20241118170712VWjV.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5399/video/19985/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
     }
    ]
