@@ -1,9 +1,101 @@
 {
  "name": "หนังเข้าฉายปี 2024",
- "author": "เจียว เจียว อัพวันที่ 19 พฤศจิกายน 2567 เริ่ม 15:10:32 เสร็จ 15:19:52",
+ "author": "เจียว เจียว อัพวันที่ 19 พฤศจิกายน 2567 เริ่ม 20:50:30 เสร็จ 20:57:42",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
+  {
+   "name": "Dune: Prophecy  Season 1 - ดูน: คำพยากรณ์แห่งทราย (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5402/20241119174527kQhq.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5402/20241119174527kQhq.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5402/video/20004/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Pearl Hotel - ปริศนาลับโรงแรมพิศวง (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/20241119153513stpt.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/20241119153513stpt.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/video/19994/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/20241119153513stpt.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/video/19995/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/20241119153513stpt.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/video/19996/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/20241119153513stpt.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/video/19997/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/20241119153513stpt.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/video/19998/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/20241119153513stpt.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/video/19999/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/20241119153513stpt.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/video/20000/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/20241119153513stpt.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/video/20001/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/20241119153513stpt.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/video/20002/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/20241119153513stpt.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5401/video/20003/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
   {
    "name": "The Cage (La Cage) Season 1 - เดอะ เคจ Season 1 (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5400/20241119103731TceO.jpg",
