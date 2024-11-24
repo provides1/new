@@ -1,9 +1,87 @@
 {
  "name": "หนังไทย",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 10 ตุลาคม 2567",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 24 พฤศจิกายน 2567",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://fw4free.com/images/logo7.png",
  "groups": [
+  {
+   "name": "แดนสาป The Cursed Land (2024)",
+   "image": "https://img.inwiptv.net/postor/20241121012727h2xI8LpnleyWzIrjtgBLrE3fc13.jpg",
+   "stations": [
+    {
+     "name": "แดนสาป The Cursed Land (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241121012727h2xI8LpnleyWzIrjtgBLrE3fc13.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Cursed_Land_2024/The_Cursed_Land_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "ผีจิก Oh...My Wife (2024)",
+   "image": "https://img.inwiptv.net/postor/20241031161302105175_riPF6wDLLpWVwsH4uMt9.jpg",
+   "stations": [
+    {
+     "name": "ผีจิก Oh...My Wife (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241031161302105175_riPF6wDLLpWVwsH4uMt9.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Oh_My_Wife_2024/Oh_My_Wife_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "รักวนลูป Love Stuck (2024)",
+   "image": "https://img.inwiptv.net/postor/202410171644536XnXvJ3bgT6vDIJKibldt0RTv89.jpg",
+   "stations": [
+    {
+     "name": "รักวนลูป Love Stuck (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/202410171644536XnXvJ3bgT6vDIJKibldt0RTv89.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Love_Stuck_2024/Love_Stuck_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "เทอม 3 Haunted Universities 3 (2024)",
+   "image": "https://img.inwiptv.net/postor/20241017155137wrgcEz7En3yqe2ZvNQV5zKR3uuI.jpg",
+   "stations": [
+    {
+     "name": "เทอม 3 Haunted Universities 3 (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241017155137wrgcEz7En3yqe2ZvNQV5zKR3uuI.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Haunted_Universities_3_2024/Haunted_Universities_3_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "อสุจ๊าก The Sperm (2007)",
+   "image": "https://img.inwiptv.net/postor/20241016171450wRPZYml0KRddzrKuakGqWk0gdsh.jpg",
+   "stations": [
+    {
+     "name": "อสุจ๊าก The Sperm (2007)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241016171450wRPZYml0KRddzrKuakGqWk0gdsh.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Sperm_2007/The_Sperm_2007_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "เมียแต่ง Legal Wife (1986)",
+   "image": "https://img.inwiptv.net/postor/20241012044502unnamedd.jpg",
+   "stations": [
+    {
+     "name": "เมียแต่ง Legal Wife (1986)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241012044502unnamedd.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Legal_Wife_1986/Legal_Wife_1986_th_720.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
   {
    "name": "หอแต๋วแตก แหกสัปะหยด Oh My Ghost : The Finale (2024)",
    "image": "https://img.inwiptv.net/postor/20241010172337h59dS8S28ANNfWj5nuga2PveHPP.jpg",
@@ -544,12 +622,12 @@
   },
   {
    "name": "ธี่หยด Death Whisperer (2023)",
-   "image": "https://img.inwiptv.net/postor/20240410001304dsS99k66XydZP6lHStoda5DGtxd.jpg",
+   "image": "https://img.inwiptv.net/postor/2024102200104848TDjSJpCdJ4SBOHZX3G5IjaV02.jpg",
    "stations": [
     {
      "name": "ธี่หยด Death Whisperer (2023)",
      "info": " พากย์ไทย",
-     "image": "https://img.inwiptv.net/postor/20240410001304dsS99k66XydZP6lHStoda5DGtxd.jpg",
+     "image": "https://img.inwiptv.net/postor/2024102200104848TDjSJpCdJ4SBOHZX3G5IjaV02.jpg",
      "url": "https://m1free.inwstream.com:1936/movie3/Death_Whisperer_2023/Death_Whisperer_2023_th_1080.mp4/playlist.m3u8",
      "referer": "https://fw4free.com/"
     }
@@ -1317,7 +1395,7 @@
      "name": "ขุนพันธ์ 3 Khun Pan 3 (2023)",
      "info": " พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20230804194238xaspbqQ6r43MPEpQWUwTYqALqOy.jpg",
-     "url": "https://m1free.inwstream.com:1936/movie3/Khun_Pan_3_2023/Khun_Pan_3_2023_th_1080.mp4/playlist.m3u8",
+     "url": "https://m1free.inwstream.com:1936/movie3/Khun_Pan_3_2023/Khun_Pan_3_2023_th_1080_F.mp4/playlist.m3u8",
      "referer": "https://fw4free.com/"
     }
    ]
@@ -5748,11 +5826,11 @@
    ]
   },
   {
-   "name": "ขุนพันธ์ 2 Khun Phan 2 (2018)",
+   "name": "ขุนพันธ์ 2 Khun Pan 2 (2018)",
    "image": "https://img.inwiptv.net/postor/20230804195544cqAn4SPQ0VWGzJUUidfrURWHTEz.jpg",
    "stations": [
     {
-     "name": "ขุนพันธ์ 2 Khun Phan 2 (2018)",
+     "name": "ขุนพันธ์ 2 Khun Pan 2 (2018)",
      "info": " พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20230804195544cqAn4SPQ0VWGzJUUidfrURWHTEz.jpg",
      "url": "https://m1free.inwstream.com:1936/movie3/Khun_Pun_2_2018/Khun_Pun_2_2018_th_1080.mp4/playlist.m3u8",
@@ -7000,20 +7078,6 @@
    ]
   },
   {
-   "name": "อสุจ๊าก - The Sperm (2007)",
-   "image": "https://img.inwiptv.net/postor/20200128124626อสุจ๊าก - The Sperm (2007).jpg",
-   "stations": [
-    {
-     "name": "อสุจ๊าก - The Sperm (2007)",
-     "info": "พากย์ไทย",
-     "image": "https://img.inwiptv.net/postor/20200128124626อสุจ๊าก - The Sperm (2007).jpg",
-     "url": "https://m1free.inwstream.com:1936/movie1/the-sperm/the-sperm-th-1080p-fwtv.m4v/playlist.m3u8",
-     "referer": "https://fw4free.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
    "name": "ฟ้าทะลายโจร Tears of the Black Tiger (2000)",
    "image": "https://img.inwiptv.net/postor/20200128124314ฟ้าทะลายโจร Tears of the Black Tiger (2000).jpg",
    "stations": [
@@ -7366,11 +7430,11 @@
    ]
   },
   {
-   "name": "Red Wine in the Dark Night คืนนั้น (2015) 18+",
+   "name": "Red Wine in the Dark Night คืนนั้น  (2015) 18+",
    "image": "https://img.inwiptv.net/postor/20200127112945Red Wine in the Dark Night คืนนั้น  (2015) 18+.jpg",
    "stations": [
     {
-     "name": "Red Wine in the Dark Night คืนนั้น (2015) 18+",
+     "name": "Red Wine in the Dark Night คืนนั้น  (2015) 18+",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200127112945Red Wine in the Dark Night คืนนั้น  (2015) 18+.jpg",
      "url": "https://m1free.inwstream.com:1936/movie2/Red-Wine-in-the-Dark-Night-2015/Red-Wine-in-the-Dark-Night-2015-th-480p.mp4/playlist.m3u8",
@@ -8093,11 +8157,11 @@
    ]
   },
   {
-   "name": "Ghost Coins เกมปลุกผี (2014)",
+   "name": "Ghost Coins เกมปลุกผี  (2014)",
    "image": "https://img.inwiptv.net/postor/20200126142126Ghost Coins เกมปลุกผี  (2014).jpg",
    "stations": [
     {
-     "name": "Ghost Coins เกมปลุกผี (2014)",
+     "name": "Ghost Coins เกมปลุกผี  (2014)",
      "info": " <<< พากย์ไทย ",
      "image": "https://img.inwiptv.net/postor/20200126142126Ghost Coins เกมปลุกผี  (2014).jpg",
      "url": "https://m1free.inwstream.com:1936/movie2/ghost_coins_2014/ghost_coins_2014_th_480p_fw.m4v/playlist.m3u8",
@@ -9373,11 +9437,11 @@
    ]
   },
   {
-   "name": "The Goddess of Nymph เทพเทวีนารีผล",
+   "name": "The Goddess of Nymph  เทพเทวีนารีผล",
    "image": "https://img.inwiptv.net/postor/20200122132414The Goddess of Nymph  เทพเทวีนารีผล.jpg",
    "stations": [
     {
-     "name": "The Goddess of Nymph เทพเทวีนารีผล",
+     "name": "The Goddess of Nymph  เทพเทวีนารีผล",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200122132414The Goddess of Nymph  เทพเทวีนารีผล.jpg",
      "url": "https://m1free.inwstream.com:1936/movie1/the-goddess-of-nymph/the-goddess-of-nymph-th-en-720p-fwtv.m4v/playlist.m3u8",
@@ -10565,11 +10629,11 @@
    ]
   },
   {
-   "name": "The 4 movie หลุด 4 หลุด",
+   "name": "The 4 movie  หลุด 4 หลุด",
    "image": "https://img.inwiptv.net/postor/20200116143943The 4 movie หลุด 4 หลุด.jpg",
    "stations": [
     {
-     "name": "The 4 movie หลุด 4 หลุด",
+     "name": "The 4 movie  หลุด 4 หลุด",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200116143943The 4 movie หลุด 4 หลุด.jpg",
      "url": "https://m1free.inwstream.com:1936/movie1/the-4-movie/the-4-movie-th-720p-fwtv.m4v/playlist.m3u8",
@@ -10955,11 +11019,11 @@
    ]
   },
   {
-   "name": "The Story of x circle เอ็กซ์แมน แฟนพันธุ์เอ็กซ์",
+   "name": "The Story of x circle  เอ็กซ์แมน แฟนพันธุ์เอ็กซ์",
    "image": "https://img.inwiptv.net/postor/20200115133808The Story of x circle  เอ็กซ์แมน แฟนพันธุ์เอ็กซ์.jpg",
    "stations": [
     {
-     "name": "The Story of x circle เอ็กซ์แมน แฟนพันธุ์เอ็กซ์",
+     "name": "The Story of x circle  เอ็กซ์แมน แฟนพันธุ์เอ็กซ์",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200115133808The Story of x circle  เอ็กซ์แมน แฟนพันธุ์เอ็กซ์.jpg",
      "url": "https://m1free.inwstream.com:1936/movie1/the-story-of-x-circle/the-story-of-x-circle-th-1080p-fwtv.m4v/playlist.m3u8",
@@ -10969,11 +11033,11 @@
    ]
   },
   {
-   "name": "Super Salaryman ยอดมนุษย์เงินเดือน",
+   "name": "Super Salaryman  ยอดมนุษย์เงินเดือน",
    "image": "https://img.inwiptv.net/postor/20200115133621Super Salaryman  ยอดมนุษย์เงินเดือน.jpg",
    "stations": [
     {
-     "name": "Super Salaryman ยอดมนุษย์เงินเดือน",
+     "name": "Super Salaryman  ยอดมนุษย์เงินเดือน",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200115133621Super Salaryman  ยอดมนุษย์เงินเดือน.jpg",
      "url": "https://m1free.inwstream.com:1936/movie1/super-salaryman/super-salaryman-th-720p-fwtv.m4v/playlist.m3u8",
@@ -11024,11 +11088,11 @@
    ]
   },
   {
-   "name": "King Naresuan ตำนานสมเด็จพระนเรศวรมหาราช [ 1-4 ]",
+   "name": "King Naresuan  ตำนานสมเด็จพระนเรศวรมหาราช [ 1-4 ]",
    "image": "https://img.inwiptv.net/postor/20200114161346King Naresuan  ตำนานสมเด็จพระนเรศวรมหาราช [ 1-4 ].jpg",
    "stations": [
     {
-     "name": "King Naresuan ตำนานสมเด็จพระนเรศวรมหาราช [ 1-4 ]",
+     "name": "King Naresuan  ตำนานสมเด็จพระนเรศวรมหาราช [ 1-4 ]",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200114161346King Naresuan  ตำนานสมเด็จพระนเรศวรมหาราช [ 1-4 ].jpg",
      "url": "https://m1free.inwstream.com:1936/movie1/king-naresuan-1-4/king-naresuan-1-th-1080p-fwtv.m4v/playlist.m3u8",
@@ -11036,7 +11100,7 @@
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     },
     {
-     "name": "King Naresuan ตำนานสมเด็จพระนเรศวรมหาราช [ 1-4 ]",
+     "name": "King Naresuan  ตำนานสมเด็จพระนเรศวรมหาราช [ 1-4 ]",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200114161346King Naresuan  ตำนานสมเด็จพระนเรศวรมหาราช [ 1-4 ].jpg",
      "url": "https://m1free.inwstream.com:1936/movie1/king-naresuan-1-4/king-naresuan-2-th-1080p-fwtv.m4v/playlist.m3u8",
@@ -11044,7 +11108,7 @@
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     },
     {
-     "name": "King Naresuan ตำนานสมเด็จพระนเรศวรมหาราช [ 1-4 ]",
+     "name": "King Naresuan  ตำนานสมเด็จพระนเรศวรมหาราช [ 1-4 ]",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200114161346King Naresuan  ตำนานสมเด็จพระนเรศวรมหาราช [ 1-4 ].jpg",
      "url": "https://m1free.inwstream.com:1936/movie1/king-naresuan-1-4/king-naresuan-3-th-1080p-fwtv.m4v/playlist.m3u8",
@@ -11052,7 +11116,7 @@
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     },
     {
-     "name": "King Naresuan ตำนานสมเด็จพระนเรศวรมหาราช [ 1-4 ]",
+     "name": "King Naresuan  ตำนานสมเด็จพระนเรศวรมหาราช [ 1-4 ]",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200114161346King Naresuan  ตำนานสมเด็จพระนเรศวรมหาราช [ 1-4 ].jpg",
      "url": "https://m1free.inwstream.com:1936/movie1/king-naresuan-1-4/king-naresuan-4-th-1080p-fwtv.m4v/playlist.m3u8",
@@ -11062,11 +11126,11 @@
    ]
   },
   {
-   "name": "Like Love ชอบกด Like ใช่กด Love",
+   "name": "Like Love  ชอบกด Like ใช่กด Love",
    "image": "https://img.inwiptv.net/postor/20200114161039Like Love  ชอบกด Like ใช่กด Love.jpg",
    "stations": [
     {
-     "name": "Like Love ชอบกด Like ใช่กด Love",
+     "name": "Like Love  ชอบกด Like ใช่กด Love",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200114161039Like Love  ชอบกด Like ใช่กด Love.jpg",
      "url": "https://m1free.inwstream.com:1936/movie1/like-love/like-love-th-1080p-fwtv.m4v/playlist.m3u8",
@@ -11259,11 +11323,11 @@
    ]
   },
   {
-   "name": "Tengs Angel เทวดาท่าจะเท่ง",
+   "name": "Tengs Angel  เทวดาท่าจะเท่ง",
    "image": "https://img.inwiptv.net/postor/20200114153155Tengs Angel  เทวดาท่าจะเท่ง.jpg",
    "stations": [
     {
-     "name": "Tengs Angel เทวดาท่าจะเท่ง",
+     "name": "Tengs Angel  เทวดาท่าจะเท่ง",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200114153155Tengs Angel  เทวดาท่าจะเท่ง.jpg",
      "url": "https://m1free.inwstream.com:1936/movie1/tengs-angel/tengs-angel-th-720p-fwtv.m4v/playlist.m3u8",
@@ -11699,11 +11763,11 @@
    ]
   },
   {
-   "name": "Taloompuk มหาวาตภัยล้างแผ่นดิน",
+   "name": "Taloompuk  มหาวาตภัยล้างแผ่นดิน",
    "image": "https://img.inwiptv.net/postor/20200111162012Taloompuk  มหาวาตภัยล้างแผ่นดิน.jpeg",
    "stations": [
     {
-     "name": "Taloompuk มหาวาตภัยล้างแผ่นดิน",
+     "name": "Taloompuk  มหาวาตภัยล้างแผ่นดิน",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200111162012Taloompuk  มหาวาตภัยล้างแผ่นดิน.jpeg",
      "url": "https://m1free.inwstream.com:1936/movie1/taloompuk/taloompuk-th-720p-fwtv.m4v/playlist.m3u8",
@@ -12129,11 +12193,11 @@
    ]
   },
   {
-   "name": "Brown Sugar น้ำตาลแดง 1",
+   "name": "Brown Sugar  น้ำตาลแดง 1",
    "image": "https://img.inwiptv.net/postor/20200109132310Brown Sugar  น้ำตาลแดง 1.jpg",
    "stations": [
     {
-     "name": "Brown Sugar น้ำตาลแดง 1",
+     "name": "Brown Sugar  น้ำตาลแดง 1",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200109132310Brown Sugar  น้ำตาลแดง 1.jpg",
      "url": "https://m1free.inwstream.com:1936/movie1/brownsugar-1/brownsugar-1-th-720p-fwtv.m4v/playlist.m3u8",
@@ -12986,11 +13050,11 @@
    ]
   },
   {
-   "name": "Hod Na Hiaw โหดหน้าเหี่ยว",
+   "name": "Hod Na Hiaw  โหดหน้าเหี่ยว",
    "image": "https://img.inwiptv.net/postor/20200106100710Hod Na Hiaw  โหดหน้าเหี่ยว.jpg",
    "stations": [
     {
-     "name": "Hod Na Hiaw โหดหน้าเหี่ยว",
+     "name": "Hod Na Hiaw  โหดหน้าเหี่ยว",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200106100710Hod Na Hiaw  โหดหน้าเหี่ยว.jpg",
      "url": "https://m1free.inwstream.com:1936/movie1/hod-na-hiaw/hod-na-hiaw-th-1080p-fwtv.m4v/playlist.m3u8",

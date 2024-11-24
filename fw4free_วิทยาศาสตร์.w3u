@@ -1,18 +1,421 @@
 {
  "name": "วิทยาศาสตร์",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 23 กันยายน 2567",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 24 พฤศจิกายน 2567",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://fw4free.com/images/logo7.png",
  "groups": [
   {
-   "name": "Another Earth (2011) บรรยายไทย",
+   "name": "V.1 Elevation อสุรกายขย้ำ 8000 ฟุต (2024)",
+   "image": "https://img.inwiptv.net/postor/20241123153457uQhYBxOVFU6s9agD49FnGHwJqG5.jpg",
+   "stations": [
+    {
+     "name": "V.1 Elevation อสุรกายขย้ำ 8000 ฟุต (2024)",
+     "info": " พากย์ไทยโรง",
+     "image": "https://img.inwiptv.net/postor/20241123153457uQhYBxOVFU6s9agD49FnGHwJqG5.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Elevation_2024/Elevation_2024_thr_v1.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Wild Robot หุ่นยนต์ผจญภัยในป่ากว้าง (2024)",
+   "image": "https://img.inwiptv.net/postor/202410190700199w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+   "stations": [
+    {
+     "name": "The Wild Robot หุ่นยนต์ผจญภัยในป่ากว้าง (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/202410190700199w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Wild_Robot_2024/The_Wild_Robot_2024_th_1080_2.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Transformers One ทรานส์ฟอร์เมอร์ส 1 (2024)",
+   "image": "https://img.inwiptv.net/postor/20240928153522iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
+   "stations": [
+    {
+     "name": "Transformers One ทรานส์ฟอร์เมอร์ส 1 (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20240928153522iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Transformers_One_2024/Transformers_One_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Transformers One ทรานส์ฟอร์เมอร์ส 1 (2024)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20240928153522iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Transformers_One_2024/Transformers_One_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Primer (2004) บรรยายไทยแปล",
+   "image": "https://img.inwiptv.net/postor/20241113224806xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
+   "stations": [
+    {
+     "name": "Primer (2004) บรรยายไทยแปล",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241113224806xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Primer_2004/Primer_2004_st_1080_T.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Deadpool & Wolverine เดดพูล & วูล์ฟเวอรีน (2024)",
+   "image": "https://img.inwiptv.net/postor/20240724223932vJJPC980fkD75RBXnrvpFKIIu9z.jpg",
+   "stations": [
+    {
+     "name": "Deadpool & Wolverine เดดพูล & วูล์ฟเวอรีน (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20240724223932vJJPC980fkD75RBXnrvpFKIIu9z.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Deadpool_And_Wolverine_2024/Deadpool_And_Wolverine_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Deadpool & Wolverine เดดพูล & วูล์ฟเวอรีน (2024)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20240724223932vJJPC980fkD75RBXnrvpFKIIu9z.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Deadpool_And_Wolverine_2024/Deadpool_And_Wolverine_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Deadpool & Wolverine เดดพูล & วูล์ฟเวอรีน (2024)",
+     "info": " Assembled: The Making of Deadpool & Wolverine",
+     "image": "https://img.inwiptv.net/postor/20240724223932vJJPC980fkD75RBXnrvpFKIIu9z.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Deadpool_And_Wolverine_2024/Assembled_The_Making_Of_Deadpool_Wolverine_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "V.1 My Hero Academia: You're Next มาย ฮีโร่ อคาเดเมีย (2024)",
+   "image": "https://img.inwiptv.net/postor/202411090418548rdB1wkheEMMqcY8qLAKjCMPcnZ.jpg",
+   "stations": [
+    {
+     "name": "V.1 My Hero Academia: You're Next มาย ฮีโร่ อคาเดเมีย (2024)",
+     "info": " พากย์ไทยโรง",
+     "image": "https://img.inwiptv.net/postor/202411090418548rdB1wkheEMMqcY8qLAKjCMPcnZ.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/My_Hero_Academia_You_re_Next_2024/My_Hero_Academia_You_re_Next_2024_thr_v1.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Apocalypse Z: The Beginning of the End อะโพคาลิปซิส เซต้า: จุดเริ่มต้นของจุดจบ (2024)",
+   "image": "https://img.inwiptv.net/postor/20241031160821hSmOrZl8ON2aJk6xvjNgVQiPdCP.jpg",
+   "stations": [
+    {
+     "name": "Apocalypse Z: The Beginning of the End อะโพคาลิปซิส เซต้า: จุดเริ่มต้นของจุดจบ (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241031160821hSmOrZl8ON2aJk6xvjNgVQiPdCP.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Apocalypse_Z_The_Beginning_of_the_End_2024/Apocalypse_Z_The_Beginning_of_the_End_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Apocalypse Z: The Beginning of the End อะโพคาลิปซิส เซต้า: จุดเริ่มต้นของจุดจบ (2024)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241031160821hSmOrZl8ON2aJk6xvjNgVQiPdCP.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Apocalypse_Z_The_Beginning_of_the_End_2024/Apocalypse_Z_The_Beginning_of_the_End_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Time Cut เจาะเวลาฆ่าอดีต (2024) NETFLIX",
+   "image": "https://img.inwiptv.net/postor/20241030162644gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg",
+   "stations": [
+    {
+     "name": "Time Cut เจาะเวลาฆ่าอดีต (2024) NETFLIX",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241030162644gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Time_Cut_2024/Time_Cut_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Time Cut เจาะเวลาฆ่าอดีต (2024) NETFLIX",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241030162644gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Time_Cut_2024/Time_Cut_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Scooby-Doo! and Krypto, Too! สกูบี้-ดู! ร่วมช่วยด้วยคริปโต (2023) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20241026174042kllOhDl3DyApQZ78pffMH1C2ZIn.jpg",
+   "stations": [
+    {
+     "name": "Scooby-Doo! and Krypto, Too! สกูบี้-ดู! ร่วมช่วยด้วยคริปโต (2023) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241026174042kllOhDl3DyApQZ78pffMH1C2ZIn.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Scooby_Doo_and_Krypto_Too_2023/Scooby_Doo_and_Krypto_Too_2023_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "V.1 Venom: The Last Dance เวน่อม: มหาศึกอสูรอหังการ (2024)",
+   "image": "https://img.inwiptv.net/postor/20241025120653aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+   "stations": [
+    {
+     "name": "V.1 Venom: The Last Dance เวน่อม: มหาศึกอสูรอหังการ (2024)",
+     "info": " พากย์ไทยโรง",
+     "image": "https://img.inwiptv.net/postor/20241025120653aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Venom_The_Last_Dance_2024/Venom_The_Last_Dance_2024_thr_v1.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Dragon Ball: Curse of the Blood Rubies ดราก้อนบอล เดอะมูฟวี่ 1 ตำนานเทพมังกร (1986)",
+   "image": "https://img.inwiptv.net/postor/20241021234557dZCWRFJnwyxYOhzAhf7Xyru4moB.jpg",
+   "stations": [
+    {
+     "name": "Dragon Ball: Curse of the Blood Rubies ดราก้อนบอล เดอะมูฟวี่ 1 ตำนานเทพมังกร (1986)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241021234557dZCWRFJnwyxYOhzAhf7Xyru4moB.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Dragon_Ball_Curse_of_the_Blood_Rubies_1986/Dragon_Ball_Curse_of_the_Blood_Rubies_1986_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Dragon Ball: Curse of the Blood Rubies ดราก้อนบอล เดอะมูฟวี่ 1 ตำนานเทพมังกร (1986)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241021234557dZCWRFJnwyxYOhzAhf7Xyru4moB.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Dragon_Ball_Curse_of_the_Blood_Rubies_1986/Dragon_Ball_Curse_of_the_Blood_Rubies_1986_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "LEGO Marvel Avengers: Mission Demolition (2024)",
+   "image": "https://img.inwiptv.net/postor/20241020173300k3LGf9afqmUZiAJ9nffBinpOhOI.jpg",
+   "stations": [
+    {
+     "name": "LEGO Marvel Avengers: Mission Demolition (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241020173300k3LGf9afqmUZiAJ9nffBinpOhOI.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/LEGO_Marvel_Avengers_Mission_Demolition_2024/LEGO_Marvel_Avengers_Mission_Demolition_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Moon ปฏิบัติการพิชิตจันทร์ (2023)",
+   "image": "https://img.inwiptv.net/postor/20241019063525cQHy5XAxUCBFyoJpZSQAsyON2As.jpg",
+   "stations": [
+    {
+     "name": "The Moon ปฏิบัติการพิชิตจันทร์ (2023)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241019063525cQHy5XAxUCBFyoJpZSQAsyON2As.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Moon_2023/The_Moon_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "The Moon ปฏิบัติการพิชิตจันทร์ (2023)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241019063525cQHy5XAxUCBFyoJpZSQAsyON2As.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Moon_2023/The_Moon_2023_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "อสุจ๊าก The Sperm (2007)",
+   "image": "https://img.inwiptv.net/postor/20241016171450wRPZYml0KRddzrKuakGqWk0gdsh.jpg",
+   "stations": [
+    {
+     "name": "อสุจ๊าก The Sperm (2007)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241016171450wRPZYml0KRddzrKuakGqWk0gdsh.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Sperm_2007/The_Sperm_2007_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Z.1 Alien: Romulus เอเลี่ยน: โรมูลัส (2024)",
+   "image": "https://img.inwiptv.net/postor/20240817045751b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+   "stations": [
+    {
+     "name": "Z.1 Alien: Romulus เอเลี่ยน: โรมูลัส (2024)",
+     "info": " พากย์ไทยโรง",
+     "image": "https://img.inwiptv.net/postor/20240817045751b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Alien_Romulus_2024/Alien_Romulus_2024_thr_z1.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Z.1 Doraemon the Movie: Nobita's Earth Symphony โดราเอมอน เดอะ มูฟวี่ : โลกแห่งซิมโฟนี่ของโนบิตะ (2024)",
+   "image": "https://img.inwiptv.net/postor/202410070324532jCGdsSjxvFY3J46lsMCWWwPMI7.jpg",
+   "stations": [
+    {
+     "name": "Z.1 Doraemon the Movie: Nobita's Earth Symphony โดราเอมอน เดอะ มูฟวี่ : โลกแห่งซิมโฟนี่ของโนบิตะ (2024)",
+     "info": " พากย์ไทยโรง",
+     "image": "https://img.inwiptv.net/postor/202410070324532jCGdsSjxvFY3J46lsMCWWwPMI7.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Doraemon_the_Movie_Nobita_s_Earth_Symphony_2024/Doraemon_the_Movie_Nobita_s_Earth_Symphony_2024_thr_z1.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "It's What's Inside กระเป๋าลับสลับร่าง (2024) NETFLIX",
+   "image": "https://img.inwiptv.net/postor/20241005212259uxWfpizZw85RPoZriJgL6z0CQDi.jpg",
+   "stations": [
+    {
+     "name": "It's What's Inside กระเป๋าลับสลับร่าง (2024) NETFLIX",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241005212259uxWfpizZw85RPoZriJgL6z0CQDi.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/It_s_What_s_Inside_2024/It_s_What_s_Inside_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "It's What's Inside กระเป๋าลับสลับร่าง (2024) NETFLIX",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241005212259uxWfpizZw85RPoZriJgL6z0CQDi.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/It_s_What_s_Inside_2024/It_s_What_s_Inside_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Platform (El hoyo) เดอะ แพลตฟอร์ม (2019) NETFLIX",
+   "image": "https://img.inwiptv.net/postor/202410051958418ZX18L5m6rH5viSYpRnTSbb9eXh.jpg",
+   "stations": [
+    {
+     "name": "The Platform (El hoyo) เดอะ แพลตฟอร์ม (2019) NETFLIX",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/202410051958418ZX18L5m6rH5viSYpRnTSbb9eXh.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Platform_2019/The_Platform_2019_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "The Platform (El hoyo) เดอะ แพลตฟอร์ม (2019) NETFLIX",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202410051958418ZX18L5m6rH5viSYpRnTSbb9eXh.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Platform_2019/The_Platform_2019_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Platform 2 (El hoyo 2) เดอะ แพลตฟอร์ม 2 (2024) NETFLIX",
+   "image": "https://img.inwiptv.net/postor/20241004214752tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg",
+   "stations": [
+    {
+     "name": "The Platform 2 (El hoyo 2) เดอะ แพลตฟอร์ม 2 (2024) NETFLIX",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241004214752tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Platform_2_2024/The_Platform_2_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "The Platform 2 (El hoyo 2) เดอะ แพลตฟอร์ม 2 (2024) NETFLIX",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241004214752tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Platform_2_2024/The_Platform_2_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Chrysalis คนระห่ำเปลี่ยนสมองลุย (2007)",
+   "image": "https://img.inwiptv.net/postor/20241001222802kXcr4eCpyt1Lan00znjRJKO7SVm.jpg",
+   "stations": [
+    {
+     "name": "Chrysalis คนระห่ำเปลี่ยนสมองลุย (2007)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241001222802kXcr4eCpyt1Lan00znjRJKO7SVm.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Chrysalis_2007/Chrysalis_2007_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Chrysalis คนระห่ำเปลี่ยนสมองลุย (2007)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241001222802kXcr4eCpyt1Lan00znjRJKO7SVm.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Chrysalis_2007/Chrysalis_2007_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "I.S.S. (2023) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20240214170420blPAS2HZcOGLTREbUeNIWmz0B6f.jpg",
+   "stations": [
+    {
+     "name": "I.S.S. (2023) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20240214170420blPAS2HZcOGLTREbUeNIWmz0B6f.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/I_S_S_2023/I_S_S_2023_st_1080_F.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "V.1 Taklee Genesis ตาคลี เจเนซิส (2024)",
+   "image": "https://img.inwiptv.net/postor/20240928153011tpNaGwo8IZXX95nHlfhLeMyE7HZ.jpg",
+   "stations": [
+    {
+     "name": "V.1 Taklee Genesis ตาคลี เจเนซิส (2024)",
+     "info": " พากย์ไทยโรง",
+     "image": "https://img.inwiptv.net/postor/20240928153011tpNaGwo8IZXX95nHlfhLeMyE7HZ.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Taklee_Genesis_2024/Taklee_Genesis_2024_thr_v1.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Afraid แอบฟัง สั่งตาย (2024)",
+   "image": "https://img.inwiptv.net/postor/20240924173828n4Vo8NnHJqvNPltrbQ2EFGQ92ni.jpg",
+   "stations": [
+    {
+     "name": "Afraid แอบฟัง สั่งตาย (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20240924173828n4Vo8NnHJqvNPltrbQ2EFGQ92ni.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Afraid_2024/Afraid_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Afraid แอบฟัง สั่งตาย (2024)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20240924173828n4Vo8NnHJqvNPltrbQ2EFGQ92ni.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Afraid_2024/Afraid_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Another Earth (2011)",
    "image": "https://img.inwiptv.net/postor/20240919013101oNanQY7DKGP0PeGOC7o5MrclVWH.jpg",
    "stations": [
     {
-     "name": "Another Earth (2011) บรรยายไทย",
+     "name": "Another Earth (2011)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20240919013101oNanQY7DKGP0PeGOC7o5MrclVWH.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Another_Earth_2011/Another_Earth_2011_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Another Earth (2011)",
      "info": " บรรยายไทย",
      "image": "https://img.inwiptv.net/postor/20240919013101oNanQY7DKGP0PeGOC7o5MrclVWH.jpg",
      "url": "https://m1free.inwstream.com:1936/movie4/Another_Earth_2011/Another_Earth_2011_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Subservience เอไอร้อนรัก (2024) บรรยายไทยแปล",
+   "image": "https://img.inwiptv.net/postor/20240924174752gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
+   "stations": [
+    {
+     "name": "Subservience เอไอร้อนรัก (2024) บรรยายไทยแปล",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20240924174752gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Subservience_2024/Subservience_2024_st_1080_T.mp4/playlist.m3u8",
      "referer": "https://fw4free.com/"
     }
    ]
@@ -156,19 +559,6 @@
    ]
   },
   {
-   "name": "V.1 Alien: Romulus เอเลี่ยน: โรมูลัส (2024)",
-   "image": "https://img.inwiptv.net/postor/20240817045751b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
-   "stations": [
-    {
-     "name": "V.1 Alien: Romulus เอเลี่ยน: โรมูลัส (2024)",
-     "info": " พากย์ไทยโรง",
-     "image": "https://img.inwiptv.net/postor/20240817045751b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
-     "url": "https://m1free.inwstream.com:1936/movie4/Alien_Romulus_2024/Alien_Romulus_2024_thr_v1.mp4/playlist.m3u8",
-     "referer": "https://fw4free.com/"
-    }
-   ]
-  },
-  {
    "name": "Signs สัญญาณสยองโลก (2002)",
    "image": "https://img.inwiptv.net/postor/20240816024152hyZkNEbNgnciUVTyu4NZTjlCh4L.jpg",
    "stations": [
@@ -237,19 +627,6 @@
      "info": " บรรยายไทย",
      "image": "https://img.inwiptv.net/postor/20240512023054gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
      "url": "https://m1free.inwstream.com:1936/movie4/Kingdom_of_the_Planet_of_the_Apes_2024/Kingdom_of_the_Planet_of_the_Apes_2024_st_1080.mp4/playlist.m3u8",
-     "referer": "https://fw4free.com/"
-    }
-   ]
-  },
-  {
-   "name": "V.4 Deadpool & Wolverine เดดพูล & วูล์ฟเวอรีน (2024)",
-   "image": "https://img.inwiptv.net/postor/20240724223932vJJPC980fkD75RBXnrvpFKIIu9z.jpg",
-   "stations": [
-    {
-     "name": "V.4 Deadpool & Wolverine เดดพูล & วูล์ฟเวอรีน (2024)",
-     "info": " พากย์ไทยโรง",
-     "image": "https://img.inwiptv.net/postor/20240724223932vJJPC980fkD75RBXnrvpFKIIu9z.jpg",
-     "url": "https://m1free.inwstream.com:1936/movie4/Deadpool_And_Wolverine_2024/Deadpool_And_Wolverine_2024_thr_v4_F.mp4/playlist.m3u8",
      "referer": "https://fw4free.com/"
     }
    ]
@@ -749,19 +1126,6 @@
    ]
   },
   {
-   "name": "I.S.S. (2023) บรรยายไทยแปล",
-   "image": "https://img.inwiptv.net/postor/20240214170420blPAS2HZcOGLTREbUeNIWmz0B6f.jpg",
-   "stations": [
-    {
-     "name": "I.S.S. (2023) บรรยายไทยแปล",
-     "info": " บรรยายไทย",
-     "image": "https://img.inwiptv.net/postor/20240214170420blPAS2HZcOGLTREbUeNIWmz0B6f.jpg",
-     "url": "https://m1free.inwstream.com:1936/movie3/I_S_S_2023/I_S_S_2023_st_1080.mp4/playlist.m3u8",
-     "referer": "https://fw4free.com/"
-    }
-   ]
-  },
-  {
    "name": "The Pod Generation (2023) บรรยายไทย",
    "image": "https://img.inwiptv.net/postor/20240130195631bJYYpb3dQUgJOavKUk8lkBFQhCS.jpg",
    "stations": [
@@ -1118,19 +1482,6 @@
      "info": " บรรยายไทย",
      "image": "https://img.inwiptv.net/postor/20230925201520ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg",
      "url": "https://m1free.inwstream.com:1936/movie3/No_One_Will_Save_You_2023/No_One_Will_Save_You_2023_st_1080.mp4/playlist.m3u8",
-     "referer": "https://fw4free.com/"
-    }
-   ]
-  },
-  {
-   "name": "Z.1 The Moon ปฏิบัติการพิชิตจันทร์ (2023)",
-   "image": "https://img.inwiptv.net/postor/20230830185749fasfsf.jpg",
-   "stations": [
-    {
-     "name": "Z.1 The Moon ปฏิบัติการพิชิตจันทร์ (2023)",
-     "info": " พากย์ไทยโรง",
-     "image": "https://img.inwiptv.net/postor/20230830185749fasfsf.jpg",
-     "url": "https://m1free.inwstream.com:1936/movie3/The_Moon_2023/The_Moon_2023_thr_z1.mp4/playlist.m3u8",
      "referer": "https://fw4free.com/"
     }
    ]
@@ -7762,19 +8113,6 @@
    ]
   },
   {
-   "name": "Chrysalis คนระห่ำเปลี่ยนสมองลุย (2007)",
-   "image": "https://img.inwiptv.net/postor/20200420073449chrysalis-532ef65369fb7.jpg",
-   "stations": [
-    {
-     "name": "Chrysalis คนระห่ำเปลี่ยนสมองลุย (2007)",
-     "info": " พากย์ไทย",
-     "image": "https://img.inwiptv.net/postor/20200420073449chrysalis-532ef65369fb7.jpg",
-     "url": "https://m1free.inwstream.com:1936/movie3/Chrysalis_2007/Chrysalis_2007_TH_1080p.mp4/playlist.m3u8",
-     "referer": "https://fw4free.com/"
-    }
-   ]
-  },
-  {
    "name": "A Shaun the Sheep Movie: Farmageddon (2019) ไม่มีบรรยาย (ไม่มีบทพูด)",
    "image": "https://img.inwiptv.net/postor/20200417082902shaun-the-sheep-movie-2-5d435a4de3c98.jpg",
    "stations": [
@@ -8012,11 +8350,11 @@
    ]
   },
   {
-   "name": "X-Men 3: The Last Stand รวมพลังประจัญบาน (2006)",
+   "name": "X-Men 3: The Last Stand  รวมพลังประจัญบาน (2006)",
    "image": "https://img.inwiptv.net/postor/20200330164908X-Men 3 The Last Stand  รวมพลังประจัญบาน (2006).jpg",
    "stations": [
     {
-     "name": "X-Men 3: The Last Stand รวมพลังประจัญบาน (2006)",
+     "name": "X-Men 3: The Last Stand  รวมพลังประจัญบาน (2006)",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200330164908X-Men 3 The Last Stand  รวมพลังประจัญบาน (2006).jpg",
      "url": "https://m1free.inwstream.com:1936/movie2/X-Men-1-4-2000-2009/X-Men-3-The-Last-Stand-2006-th-1080p.mp4/playlist.m3u8",
@@ -8024,7 +8362,7 @@
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     },
     {
-     "name": "X-Men 3: The Last Stand รวมพลังประจัญบาน (2006)",
+     "name": "X-Men 3: The Last Stand  รวมพลังประจัญบาน (2006)",
      "info": " บรรยายไทย ",
      "image": "https://img.inwiptv.net/postor/20200330164908X-Men 3 The Last Stand  รวมพลังประจัญบาน (2006).jpg",
      "url": "https://m1free.inwstream.com:1936/movie2/X-Men-1-4-2000-2009/X-Men-3-The-Last-Stand-2006-en-1080p.mp4/playlist.m3u8",
@@ -8348,19 +8686,6 @@
      "info": " SoundTrack SubThai",
      "image": "https://img.inwiptv.net/postor/20200322221255Mad MaxBeyond Thunderdomeแมด แม็กซ์ โดมบันลือโลก(1985).jpg",
      "url": "https://m1free.inwstream.com:1936/movie1/Mad-Max-1979-1985/Mad-Max-3-Beyond-Thunderdome-1985-en-1080p.mp4/playlist.m3u8",
-     "referer": "https://fw4free.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Platform (El hoyo) เดอะ แพลตฟอร์ม (2019) NETFLIX บรรยายไทย",
-   "image": "https://img.inwiptv.net/postor/20200321095857p17387557_v_v8_aa.jpg",
-   "stations": [
-    {
-     "name": "The Platform (El hoyo) เดอะ แพลตฟอร์ม (2019) NETFLIX บรรยายไทย",
-     "info": " บรรยายไทย",
-     "image": "https://img.inwiptv.net/postor/20200321095857p17387557_v_v8_aa.jpg",
-     "url": "https://m1free.inwstream.com:1936/movie3/The_Platform_2019/The_Platform_2019_EN_1080p.mp4/playlist.m3u8",
      "referer": "https://fw4free.com/"
     }
    ]
@@ -9277,11 +9602,11 @@
    ]
   },
   {
-   "name": "Tremors: A Cold Day in Hell ฑูตนรกล้านปี 6 (2018) บรรยายไทยแปล",
+   "name": "Tremors: A Cold Day in Hell ฑูตนรกล้านปี  6 (2018) บรรยายไทยแปล",
    "image": "https://img.inwiptv.net/postor/20191127111340tremors-a-cold-day-in-hell-5b0885911c254.jpg",
    "stations": [
     {
-     "name": "Tremors: A Cold Day in Hell ฑูตนรกล้านปี 6 (2018) บรรยายไทยแปล",
+     "name": "Tremors: A Cold Day in Hell ฑูตนรกล้านปี  6 (2018) บรรยายไทยแปล",
      "info": " บรรยายไทย",
      "image": "https://img.inwiptv.net/postor/20191127111340tremors-a-cold-day-in-hell-5b0885911c254.jpg",
      "url": "https://m1free.inwstream.com:1936/movie3/Tremors_A_Cold_Day_in_Hell_2018/Tremors_A_Cold_Day_in_Hell_2018_EN_1080p_T.mp4/playlist.m3u8",
@@ -9483,18 +9808,18 @@
    ]
   },
   {
-   "name": "Atlantis: Milo's Return แอตแลนติส 2 ผจญภัยแดนอาถรรพ์ (2003)",
+   "name": "Atlantis: Milo's Return แอตแลนติส 2  ผจญภัยแดนอาถรรพ์ (2003)",
    "image": "https://img.inwiptv.net/postor/20191014140048atlantis-milos-return-53003e083fbb1.jpg",
    "stations": [
     {
-     "name": "Atlantis: Milo's Return แอตแลนติส 2 ผจญภัยแดนอาถรรพ์ (2003)",
+     "name": "Atlantis: Milo's Return แอตแลนติส 2  ผจญภัยแดนอาถรรพ์ (2003)",
      "info": " พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20191014140048atlantis-milos-return-53003e083fbb1.jpg",
      "url": "https://m1free.inwstream.com:1936/movie3/Atlantis_Milo_s_Return_2003/Atlantis_Milo_s_Return_2003_TH_1080p.mp4/playlist.m3u8",
      "referer": "https://fw4free.com/"
     },
     {
-     "name": "Atlantis: Milo's Return แอตแลนติส 2 ผจญภัยแดนอาถรรพ์ (2003)",
+     "name": "Atlantis: Milo's Return แอตแลนติส 2  ผจญภัยแดนอาถรรพ์ (2003)",
      "info": " บรรยายไทย",
      "image": "https://img.inwiptv.net/postor/20191014140048atlantis-milos-return-53003e083fbb1.jpg",
      "url": "https://m1free.inwstream.com:1936/movie3/Atlantis_Milo_s_Return_2003/Atlantis_Milo_s_Return_2003_EN_1080p.mp4/playlist.m3u8",
@@ -13160,20 +13485,20 @@
   },
   {
    "name": "Splinter สปลินเตอร์ ชีวอสูร (2008)",
-   "image": "https://img.inwiptv.net/postor/20200506145330Splinter สปลินเตอร์ ชีวอสูร (2008).jpg",
+   "image": "https://img.inwiptv.net/postor/20241112041830SfCDEqYrpPAuuCTsQ4vbbmH2JV.jpg",
    "stations": [
     {
      "name": "Splinter สปลินเตอร์ ชีวอสูร (2008)",
      "info": " พากย์ไทย",
-     "image": "https://img.inwiptv.net/postor/20200506145330Splinter สปลินเตอร์ ชีวอสูร (2008).jpg",
-     "url": "https://m1free.inwstream.com:1936/movie1/Splinter-2008/Splinter-2008-TH-1080p.mp4/playlist.m3u8",
+     "image": "https://img.inwiptv.net/postor/20241112041830SfCDEqYrpPAuuCTsQ4vbbmH2JV.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Splinter_2008/Splinter_2008_th_1080.mp4/playlist.m3u8",
      "referer": "https://fw4free.com/"
     },
     {
      "name": "Splinter สปลินเตอร์ ชีวอสูร (2008)",
      "info": " บรรยายไทย",
-     "image": "https://img.inwiptv.net/postor/20200506145330Splinter สปลินเตอร์ ชีวอสูร (2008).jpg",
-     "url": "https://m1free.inwstream.com:1936/movie1/Splinter-2008/Splinter-2008-EN-1080p.mp4/playlist.m3u8",
+     "image": "https://img.inwiptv.net/postor/20241112041830SfCDEqYrpPAuuCTsQ4vbbmH2JV.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Splinter_2008/Splinter_2008_st_1080.mp4/playlist.m3u8",
      "referer": "https://fw4free.com/"
     }
    ]
@@ -16278,11 +16603,11 @@
    ]
   },
   {
-   "name": "Metal Shifters พลังชีวะจักรกลถล่มโลก",
+   "name": "Metal Shifters  พลังชีวะจักรกลถล่มโลก",
    "image": "https://img.inwiptv.net/postor/20200331171026Metal Shifters  พลังชีวะจักรกลถล่มโลก.jpg",
    "stations": [
     {
-     "name": "Metal Shifters พลังชีวะจักรกลถล่มโลก",
+     "name": "Metal Shifters  พลังชีวะจักรกลถล่มโลก",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200331171026Metal Shifters  พลังชีวะจักรกลถล่มโลก.jpg",
      "url": "https://m1free.inwstream.com:1936/movie1/metal-shifters/metal-shifters-th-en-1080p-fwtv.m4v/playlist.m3u8",
@@ -16348,11 +16673,11 @@
    ]
   },
   {
-   "name": "Legendary ล่าอสูรตำนานสยอง",
+   "name": "Legendary  ล่าอสูรตำนานสยอง",
    "image": "https://img.inwiptv.net/postor/20200331125151Legendary  ล่าอสูรตำนานสยอง.jpg",
    "stations": [
     {
-     "name": "Legendary ล่าอสูรตำนานสยอง",
+     "name": "Legendary  ล่าอสูรตำนานสยอง",
      "info": "พากย์ไทย",
      "image": "https://img.inwiptv.net/postor/20200331125151Legendary  ล่าอสูรตำนานสยอง.jpg",
      "url": "https://m1free.inwstream.com:1936/movie1/legendary-tomb-of-the-dragon/legendary-tomb-of-the-dragon-th-en-1080p-fwtv.m4v/playlist.m3u8",
