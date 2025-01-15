@@ -1,9 +1,928 @@
 {
  "name": "หนังเอเซีย",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 24 พฤศจิกายน 2567",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 15 มกราคม 2568",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://fw4free.com/images/logo7.png",
  "groups": [
+  {
+   "name": "Mama (2011) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20250114032203naKIQAJtvlmEFv4xJjY3DAPS3pm.jpg",
+   "stations": [
+    {
+     "name": "Mama (2011) บรรยายไทย",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20250114032203naKIQAJtvlmEFv4xJjY3DAPS3pm.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Mama_2011/Mama_2011_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Following (2024)",
+   "image": "https://img.inwiptv.net/postor/202411200000541TSnW71f1J63XgtZIHojLcclm7c.jpg",
+   "stations": [
+    {
+     "name": "Following (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/202411200000541TSnW71f1J63XgtZIHojLcclm7c.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Following_2024/Following_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Following (2024)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202411200000541TSnW71f1J63XgtZIHojLcclm7c.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Following_2024/Following_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Escape หนีให้พ้นนรก (2024)",
+   "image": "https://img.inwiptv.net/postor/20240815055006kljqsaQIJHTtHpyP2F8W22bAovA.jpg",
+   "stations": [
+    {
+     "name": "Escape หนีให้พ้นนรก (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20240815055006kljqsaQIJHTtHpyP2F8W22bAovA.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Escape_2024/Escape_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Escape หนีให้พ้นนรก (2024)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20240815055006kljqsaQIJHTtHpyP2F8W22bAovA.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Escape_2024/Escape_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Mystery of Jade เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่ (2024)",
+   "image": "https://img.inwiptv.net/postor/20250112232601vLJdZ3c3hgJWhjtgSxgEbOHyrU.jpg",
+   "stations": [
+    {
+     "name": "The Mystery of Jade เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่ (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20250112232601vLJdZ3c3hgJWhjtgSxgEbOHyrU.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Mystery_of_Jade_2024/The_Mystery_of_Jade_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "The Mystery of Jade เปาบุ้นจิ้น คดีประหลาดดาวปลาคู่ (2024)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20250112232601vLJdZ3c3hgJWhjtgSxgEbOHyrU.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Mystery_of_Jade_2024/The_Mystery_of_Jade_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Mystery of Humanoid Puppet ตี๋เหรินเจี๋ยกับตุ๊กตาหุ่นเชิด (2024)",
+   "image": "https://img.inwiptv.net/postor/202501122307279dfdfd41-6b62-4aa6-b3b1-9fd8b6fe8f95.jpg",
+   "stations": [
+    {
+     "name": "The Mystery of Humanoid Puppet ตี๋เหรินเจี๋ยกับตุ๊กตาหุ่นเชิด (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/202501122307279dfdfd41-6b62-4aa6-b3b1-9fd8b6fe8f95.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Mystery_of_Humanoid_Puppet_2024/The_Mystery_of_Humanoid_Puppet_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "The Mystery of Humanoid Puppet ตี๋เหรินเจี๋ยกับตุ๊กตาหุ่นเชิด (2024)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202501122307279dfdfd41-6b62-4aa6-b3b1-9fd8b6fe8f95.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Mystery_of_Humanoid_Puppet_2024/The_Mystery_of_Humanoid_Puppet_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Attack: Part 1 หน่วยพิฆาต เอไอ ระห่ำโหด (2022)",
+   "image": "https://img.inwiptv.net/postor/202501110229025jGKbYuZtdxSNOocI6ZziQeiY4n.jpg",
+   "stations": [
+    {
+     "name": "Attack: Part 1 หน่วยพิฆาต เอไอ ระห่ำโหด (2022)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/202501110229025jGKbYuZtdxSNOocI6ZziQeiY4n.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Attack_Part_1_2022/Attack_Part_1_2022_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Fury 12 Hours 12 ชั่วโมงแห่งความเกรี้ยวกราด (2024)",
+   "image": "https://img.inwiptv.net/postor/20250111022501c2ZtLl1EATKymqUlmNYFdI817tn.jpg",
+   "stations": [
+    {
+     "name": "Fury 12 Hours 12 ชั่วโมงแห่งความเกรี้ยวกราด (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20250111022501c2ZtLl1EATKymqUlmNYFdI817tn.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Fury_12_Hours_2024/Fury_12_Hours_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Fury 12 Hours 12 ชั่วโมงแห่งความเกรี้ยวกราด (2024)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20250111022501c2ZtLl1EATKymqUlmNYFdI817tn.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Fury_12_Hours_2024/Fury_12_Hours_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Kaka Boss เจ้าพ่อกาก้า (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20250110023437uZbWTM2SKRvzgGy0tzw73dlH32o.jpg",
+   "stations": [
+    {
+     "name": "Kaka Boss เจ้าพ่อกาก้า (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20250110023437uZbWTM2SKRvzgGy0tzw73dlH32o.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Kaka_Boss_2024/Kaka_Boss_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Say Yes Again (2021) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/202501081307405aA2mD23ewm5b8G3SOdJdJM0Cgj.jpg",
+   "stations": [
+    {
+     "name": "Say Yes Again (2021) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202501081307405aA2mD23ewm5b8G3SOdJdJM0Cgj.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Say_Yes_Again_2021/Say_Yes_Again_2021_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Phantom (Yuryeong) หักเหลี่ยมสายลับมายา (2023) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20250108130237n1rxZ4wovf7BYhLNwCqde8I3I2N.jpg",
+   "stations": [
+    {
+     "name": "Phantom (Yuryeong) หักเหลี่ยมสายลับมายา (2023) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20250108130237n1rxZ4wovf7BYhLNwCqde8I3I2N.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Phantom_2023/Phantom_2023_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "One-Line วันไลน์ บริการกู้ไม่จำกัด (2017) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20250108125155qcWnGBLJwQeSKAxAINmtDHf6WNG.jpg",
+   "stations": [
+    {
+     "name": "One-Line วันไลน์ บริการกู้ไม่จำกัด (2017) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20250108125155qcWnGBLJwQeSKAxAINmtDHf6WNG.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/One_Line_2017/One_Line_2017_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Love Child เกิดจากรัก (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20250108124612b0Ms9JS4Z4NOsMlyWEiF0evdhvi.jpg",
+   "stations": [
+    {
+     "name": "Love Child เกิดจากรัก (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20250108124612b0Ms9JS4Z4NOsMlyWEiF0evdhvi.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Love_Child_2024/Love_Child_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Cinderella Game (2016) บรรยายไทยแปล",
+   "image": "https://img.inwiptv.net/postor/20250106203848yn00rTgqxLnQ5ixfRfLCv5FcZY3.jpg",
+   "stations": [
+    {
+     "name": "Cinderella Game (2016) บรรยายไทยแปล",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20250106203848yn00rTgqxLnQ5ixfRfLCv5FcZY3.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Cinderella_Game_2016/Cinderella_Game_2016_st_1080_T.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Northern Limit Line สมรภูมิรบและเกียรติยศแห่งราชนาวี (2015) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/202501042018482RXpMD9d5hCLyqKVGEPXT6FaXCg.jpg",
+   "stations": [
+    {
+     "name": "Northern Limit Line สมรภูมิรบและเกียรติยศแห่งราชนาวี (2015) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202501042018482RXpMD9d5hCLyqKVGEPXT6FaXCg.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Northern_Limit_Line_2015/Northern_Limit_Line_2015_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "No Mercy ไร้เมตตา (2019) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/202501042012543KJVCVADvtZ6esjPWPHObjPMuK4.jpg",
+   "stations": [
+    {
+     "name": "No Mercy ไร้เมตตา (2019) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202501042012543KJVCVADvtZ6esjPWPHObjPMuK4.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/No_Mercy_2019/No_Mercy_2019_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "New World (Sinsegye) ปฏิวัติโค่นมาเฟีย (2013) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/202501042007545Ai3BMJlDGOlZXbcDv3vnOM1CSp.jpg",
+   "stations": [
+    {
+     "name": "New World (Sinsegye) ปฏิวัติโค่นมาเฟีย (2013) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202501042007545Ai3BMJlDGOlZXbcDv3vnOM1CSp.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/New_World_2013/New_World_2013_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Janhit Mein Jaari โลกจ๋า... อย่าหาว่าหนูสอน (2022)",
+   "image": "https://img.inwiptv.net/postor/20241231165249foCjFsf4D9M4sy2CcoxnD9RHAOq.jpg",
+   "stations": [
+    {
+     "name": "Janhit Mein Jaari โลกจ๋า... อย่าหาว่าหนูสอน (2022)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241231165249foCjFsf4D9M4sy2CcoxnD9RHAOq.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Janhit_Mein_Jaari_2022/Janhit_Mein_Jaari_2022_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Raksha Bandhan น้องพี่และที่รัก (2022)",
+   "image": "https://img.inwiptv.net/postor/20241231165012g2tly6nICUngmNnVH4iRQ75DeDZ.jpg",
+   "stations": [
+    {
+     "name": "Raksha Bandhan น้องพี่และที่รัก (2022)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241231165012g2tly6nICUngmNnVH4iRQ75DeDZ.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Raksha_Bandhan_2022/Raksha_Bandhan_2022_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "I am the Secret in Your Heart ฉันคือความลับในใจเธอ (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20241231164254qFs9SMF5v6n0Pxtiwd9eOXNCcWV.jpg",
+   "stations": [
+    {
+     "name": "I am the Secret in Your Heart ฉันคือความลับในใจเธอ (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241231164254qFs9SMF5v6n0Pxtiwd9eOXNCcWV.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/I_am_the_Secret_in_Your_Heart_2024/I_am_the_Secret_in_Your_Heart_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Suffocating Love รักแน่นอก (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20241231163932qPgTlGfZA1SANyNPfgiFlYGL7mR.jpg",
+   "stations": [
+    {
+     "name": "Suffocating Love รักแน่นอก (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241231163932qPgTlGfZA1SANyNPfgiFlYGL7mR.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Suffocating_Love_2024/Suffocating_Love_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Guilty of Romance ความผิดแห่งความรัก (2011) บรรยายไทยแปล",
+   "image": "https://img.inwiptv.net/postor/202412240134089Yc6ip8cBDbkfy5K8Ob401PjlJa.jpg",
+   "stations": [
+    {
+     "name": "Guilty of Romance ความผิดแห่งความรัก (2011) บรรยายไทยแปล",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202412240134089Yc6ip8cBDbkfy5K8Ob401PjlJa.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Guilty_of_Romance_2011/Guilty_of_Romance_2011_st_720_T.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Moscow Mission (Mo Si Ke xing dong) ภารกิจท้านรก (2023)",
+   "image": "https://img.inwiptv.net/postor/202412230100247tSTPULMgS8wns2eewaWI7pNRCB.jpg",
+   "stations": [
+    {
+     "name": "Moscow Mission (Mo Si Ke xing dong) ภารกิจท้านรก (2023)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/202412230100247tSTPULMgS8wns2eewaWI7pNRCB.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Moscow_Mission_2023/Moscow_Mission_2023_th_1080_2.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Moscow Mission (Mo Si Ke xing dong) ภารกิจท้านรก (2023)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202412230100247tSTPULMgS8wns2eewaWI7pNRCB.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Moscow_Mission_2023/Moscow_Mission_2023_st_1080_2.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Hello Ghost ผีวุ่นวายกะนายเจี๋ยมเจี้ยม (2010)",
+   "image": "https://img.inwiptv.net/postor/20241221071441eABJoKMxXky1R13aR2E9It90Djm.jpg",
+   "stations": [
+    {
+     "name": "Hello Ghost ผีวุ่นวายกะนายเจี๋ยมเจี้ยม (2010)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241221071441eABJoKMxXky1R13aR2E9It90Djm.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Hello_Ghost_2010/Hello_Ghost_2010_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Hello Ghost ผีวุ่นวายกะนายเจี๋ยมเจี้ยม (2010)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241221071441eABJoKMxXky1R13aR2E9It90Djm.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Hello_Ghost_2010/Hello_Ghost_2010_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Roxana โรซาน่า (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20241220083245llfQhhmogUy5SEwAbsEjzBFFibm.jpg",
+   "stations": [
+    {
+     "name": "Roxana โรซาน่า (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241220083245llfQhhmogUy5SEwAbsEjzBFFibm.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Roxana_2024/Roxana_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Drive (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/202412200827155doar0VEH6bkC1rzstB25PhaV4g.jpg",
+   "stations": [
+    {
+     "name": "Drive (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202412200827155doar0VEH6bkC1rzstB25PhaV4g.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Drive_2024/Drive_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Nezha: Demon Child is Back นาจา การกลับมาของเด็กปีศาจ (2024)",
+   "image": "https://img.inwiptv.net/postor/20241220081547bdhITckYK6CHhjRTYufi4As9mBM.jpg",
+   "stations": [
+    {
+     "name": "Nezha: Demon Child is Back นาจา การกลับมาของเด็กปีศาจ (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241220081547bdhITckYK6CHhjRTYufi4As9mBM.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Nezha_Demon_Child_is_Back_2024/Nezha_Demon_Child_is_Back_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Nezha: Demon Child is Back นาจา การกลับมาของเด็กปีศาจ (2024)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241220081547bdhITckYK6CHhjRTYufi4As9mBM.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Nezha_Demon_Child_is_Back_2024/Nezha_Demon_Child_is_Back_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Jigra ฝ่านรกแดนประหาร (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20241220080636x9zOKgomc1nHmvhjpffG2KBS9jD.jpg",
+   "stations": [
+    {
+     "name": "Jigra ฝ่านรกแดนประหาร (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241220080636x9zOKgomc1nHmvhjpffG2KBS9jD.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Jigra_2024/Jigra_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Upstream ต้นน้ำ (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/202412190240342xlNilnEEXsDVm9IfOqY2h5E25p.jpg",
+   "stations": [
+    {
+     "name": "Upstream ต้นน้ำ (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202412190240342xlNilnEEXsDVm9IfOqY2h5E25p.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Upstream_2024/Upstream_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Gemencheh Boys หนุ่มน้อยหัวใจคริกเก็ต (2023) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/202412190226579nSVvprQnM9S79S6RZdsFbeMWvV.jpg",
+   "stations": [
+    {
+     "name": "Gemencheh Boys หนุ่มน้อยหัวใจคริกเก็ต (2023) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202412190226579nSVvprQnM9S79S6RZdsFbeMWvV.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Gemencheh_Boys_2023/Gemencheh_Boys_2023_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Wonderland สวนหรรษาที่ตราตรึง (2023) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20241219021149MV5BMGQ4ZGFkY2UtNWViMy00ZDc5LTgwZjktMGQyNzM5ZTlkNzkwXkEyXkFqcGc@._V1_.jpg",
+   "stations": [
+    {
+     "name": "Wonderland สวนหรรษาที่ตราตรึง (2023) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241219021149MV5BMGQ4ZGFkY2UtNWViMy00ZDc5LTgwZjktMGQyNzM5ZTlkNzkwXkEyXkFqcGc@._V1_.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Wonderland_2023/Wonderland_2023_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Sinakagon สาปสายเลือด (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/2024121701225226i0wLH2jYXVndKiyCBfet0LGS1.jpg",
+   "stations": [
+    {
+     "name": "Sinakagon สาปสายเลือด (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/2024121701225226i0wLH2jYXVndKiyCBfet0LGS1.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Sinakagon_2024/Sinakagon_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Minna no Uta (Sana) เทปผีดุ (2023)",
+   "image": "https://img.inwiptv.net/postor/20241214171155ziWLHm8xjuG2jQf9iIRC7XZZom8.jpg",
+   "stations": [
+    {
+     "name": "Minna no Uta (Sana) เทปผีดุ (2023)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241214171155ziWLHm8xjuG2jQf9iIRC7XZZom8.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Minna_no_Uta_2023/Minna_no_Uta_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Minna no Uta (Sana) เทปผีดุ (2023)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241214171155ziWLHm8xjuG2jQf9iIRC7XZZom8.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Minna_no_Uta_2023/Minna_no_Uta_2023_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Sakra (2023) บรรยายไทยแปล",
+   "image": "https://img.inwiptv.net/postor/20241213063314uSmqyGyrjP1FF5UpxryUsSasddQ4w0.jpg",
+   "stations": [
+    {
+     "name": "Sakra (2023) บรรยายไทยแปล",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241213063314uSmqyGyrjP1FF5UpxryUsSasddQ4w0.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Sakra_2023/Sakra_2023_st_1080_T.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Blade of Fury ดาบคลั่ง (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20241212063120utyfULeHcVAwyc3uAYMDpxeTLdN.jpg",
+   "stations": [
+    {
+     "name": "Blade of Fury ดาบคลั่ง (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241212063120utyfULeHcVAwyc3uAYMDpxeTLdN.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Blade_of_Fury_2024/Blade_of_Fury_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Zeiram 2 (1994) บรรยายไทยแปล",
+   "image": "https://img.inwiptv.net/postor/20241209004219yPUlS9EYfNlVgwSKX1RQAnfsGOO.jpg",
+   "stations": [
+    {
+     "name": "Zeiram 2 (1994) บรรยายไทยแปล",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241209004219yPUlS9EYfNlVgwSKX1RQAnfsGOO.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Zeiram_2_1994/Zeiram_2_1994_st_1080_T.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Zeiram (1991) บรรยายไทยแปล",
+   "image": "https://img.inwiptv.net/postor/20241209004007pIXJIxy0OXgTgVIIks98UjRp59z.jpg",
+   "stations": [
+    {
+     "name": "Zeiram (1991) บรรยายไทยแปล",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241209004007pIXJIxy0OXgTgVIIks98UjRp59z.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Zeiram_1991/Zeiram_1991_st_1080_T.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Veteran ขอโทษที! ปืนพี่มันลั่น (2015)",
+   "image": "https://img.inwiptv.net/postor/2024120900213459KtPlcr2GQIudEA6B5KNY5NnBf.jpg",
+   "stations": [
+    {
+     "name": "Veteran ขอโทษที! ปืนพี่มันลั่น (2015)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/2024120900213459KtPlcr2GQIudEA6B5KNY5NnBf.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Veteran_2015/Veteran_2015_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "A Legend พลิกตำนานฟัดทะลุเวลา (2024)",
+   "image": "https://img.inwiptv.net/postor/20241105013353qbImUt1d3itXcB81BCItPZlfbyr.jpg",
+   "stations": [
+    {
+     "name": "A Legend พลิกตำนานฟัดทะลุเวลา (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241105013353qbImUt1d3itXcB81BCItPZlfbyr.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/A_Legend_2024/A_Legend_2024_th_1080_F.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "A Legend พลิกตำนานฟัดทะลุเวลา (2024)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241105013353qbImUt1d3itXcB81BCItPZlfbyr.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/A_Legend_2024/A_Legend_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Hayao Miyazaki and the Heron ฮายาโอะ มิยาซากิกับนกกระสา (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20241207025523Bw7jGthm637GqlRq5rT04GJrKL.jpg",
+   "stations": [
+    {
+     "name": "Hayao Miyazaki and the Heron ฮายาโอะ มิยาซากิกับนกกระสา (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241207025523Bw7jGthm637GqlRq5rT04GJrKL.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Hayao_Miyazaki_and_the_Heron_2024/Hayao_Miyazaki_and_the_Heron_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Experts มือฉมังหักทรชน (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/202412070249566qY4HM5ayavGPGrhVVLfUJ9xjq8.jpg",
+   "stations": [
+    {
+     "name": "The Experts มือฉมังหักทรชน (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202412070249566qY4HM5ayavGPGrhVVLfUJ9xjq8.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Experts_2024/The_Experts_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "April, Come She Will เมษายน พาใครคนนั้น กลับมา (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20241207023419nisteDwnrMAJAF9PYokt245PVkX.jpg",
+   "stations": [
+    {
+     "name": "April, Come She Will เมษายน พาใครคนนั้น กลับมา (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241207023419nisteDwnrMAJAF9PYokt245PVkX.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/April_Come_She_Will_2024/April_Come_She_Will_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Maple Leaf Dreams ฝันรักใบเมเปิล (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/202412060251467UVAUuXE1qNfHXYSEVbFK7EsdkI.jpg",
+   "stations": [
+    {
+     "name": "Maple Leaf Dreams ฝันรักใบเมเปิล (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202412060251467UVAUuXE1qNfHXYSEVbFK7EsdkI.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Maple_Leaf_Dreams_2024/Maple_Leaf_Dreams_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Assassination Classroom: Graduation แผนสังหารมะนาวต่างดุ๊ด 2 (2016)",
+   "image": "https://img.inwiptv.net/postor/202412041911259QHdiRE2KDBFpZknffdoubczRWD.jpg",
+   "stations": [
+    {
+     "name": "Assassination Classroom: Graduation แผนสังหารมะนาวต่างดุ๊ด 2 (2016)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/202412041911259QHdiRE2KDBFpZknffdoubczRWD.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Assassination_Classroom_Graduation_2016/Assassination_Classroom_Graduation_2016_th_720p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Assassination Classroom แผนสั่งหารมะนาวต่างดุ๊ด (2015)",
+   "image": "https://img.inwiptv.net/postor/20241204190838h752DXxIvf4diBtnVd6JRQCm0OV.jpg",
+   "stations": [
+    {
+     "name": "Assassination Classroom แผนสั่งหารมะนาวต่างดุ๊ด (2015)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241204190838h752DXxIvf4diBtnVd6JRQCm0OV.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Assassination_Classroom_2015/Assassination_Classroom_2015_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Princess and the Matchmaker เจ้าหญิงจอมวุ่นกับเรื่องยุ่งของชาย 4 คน (2018)",
+   "image": "https://img.inwiptv.net/postor/202412041903071hKUJ6YCVzlW9grBDoKps4KoDNE.jpg",
+   "stations": [
+    {
+     "name": "The Princess and the Matchmaker เจ้าหญิงจอมวุ่นกับเรื่องยุ่งของชาย 4 คน (2018)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/202412041903071hKUJ6YCVzlW9grBDoKps4KoDNE.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Princess_and_the_Matchmaker_2018/The_Princess_and_the_Matchmaker_2018_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Sikandar Ka Muqaddar ชะตาข้าลิขิต (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20241203121928eWUh4rgxtgypgnOa6uGMnUt01ux.jpg",
+   "stations": [
+    {
+     "name": "Sikandar Ka Muqaddar ชะตาข้าลิขิต (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241203121928eWUh4rgxtgypgnOa6uGMnUt01ux.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Sikandar_Ka_Muqaddar_2024/Sikandar_Ka_Muqaddar_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Conjuring Curse คำสาปเมืองผี (2023)",
+   "image": "https://img.inwiptv.net/postor/20241201114659xbZLrSN3ynyemRZBRjzYUGKUOui.jpg",
+   "stations": [
+    {
+     "name": "Conjuring Curse คำสาปเมืองผี (2023)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241201114659xbZLrSN3ynyemRZBRjzYUGKUOui.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Conjuring_Curse_2023/Conjuring_Curse_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Conjuring Curse คำสาปเมืองผี (2023)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241201114659xbZLrSN3ynyemRZBRjzYUGKUOui.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Conjuring_Curse_2023/Conjuring_Curse_2023_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Wild Blade of Strangers นักดาบคนแปลกหน้า (2024)",
+   "image": "https://img.inwiptv.net/postor/202412011143069DZOU5qibB8WeXtzQ00Nl6tiqfw.jpg",
+   "stations": [
+    {
+     "name": "The Wild Blade of Strangers นักดาบคนแปลกหน้า (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/202412011143069DZOU5qibB8WeXtzQ00Nl6tiqfw.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Wild_Blade_of_Strangers_2024/The_Wild_Blade_of_Strangers_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "The Wild Blade of Strangers นักดาบคนแปลกหน้า (2024)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202412011143069DZOU5qibB8WeXtzQ00Nl6tiqfw.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Wild_Blade_of_Strangers_2024/The_Wild_Blade_of_Strangers_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Lord of The Monsters ประกาศิตเทพปีศาจ (2024)",
+   "image": "https://img.inwiptv.net/postor/20240509005422cGmtm5sXnwLJHwbYq3GEoZcEri3.jpg",
+   "stations": [
+    {
+     "name": "The Lord of The Monsters ประกาศิตเทพปีศาจ (2024)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20240509005422cGmtm5sXnwLJHwbYq3GEoZcEri3.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Lord_of_The_Monsters_2024/The_Lord_of_The_Monsters_2024_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "The Lord of The Monsters ประกาศิตเทพปีศาจ (2024)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20240509005422cGmtm5sXnwLJHwbYq3GEoZcEri3.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Lord_of_The_Monsters_2024/The_Lord_of_The_Monsters_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Detention กักสยอง โรงเรียนหลอน (2019) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/202412011133188cKs4cPTAhAjjRAOjjXFbVnYc1l.jpg",
+   "stations": [
+    {
+     "name": "Detention กักสยอง โรงเรียนหลอน (2019) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202412011133188cKs4cPTAhAjjRAOjjXFbVnYc1l.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Detention_2019/Detention_2019_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Dead Mine (2012) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20241201112946qs1eHTW1VjYwEKN5vfGeyC4793U.jpg",
+   "stations": [
+    {
+     "name": "Dead Mine (2012) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241201112946qs1eHTW1VjYwEKN5vfGeyC4793U.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Dead_Mine_2012/Dead_Mine_2012_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "BORDER: Shokuzai (2017) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20241201000846iiVDIMStjhPxkC8l4vHsnjmfKch.jpg",
+   "stations": [
+    {
+     "name": "BORDER: Shokuzai (2017) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241201000846iiVDIMStjhPxkC8l4vHsnjmfKch.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/BORDER_Shokuzai_2017/BORDER_Shokuzai_2017_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Black Money (2019) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/202411302359475KrujWWEjza9skXHauGTBlWfq47.jpg",
+   "stations": [
+    {
+     "name": "Black Money (2019) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/202411302359475KrujWWEjza9skXHauGTBlWfq47.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Black_Money_2019/Black_Money_2019_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Royal Tailor (Sang-eui-won) บันทึกลับช่างอาภรณ์แห่งโชซอน (2014)",
+   "image": "https://img.inwiptv.net/postor/20241129210621zrWD1J3CRamqGgHm5UgH9jN0Iqi.jpg",
+   "stations": [
+    {
+     "name": "The Royal Tailor (Sang-eui-won) บันทึกลับช่างอาภรณ์แห่งโชซอน (2014)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241129210621zrWD1J3CRamqGgHm5UgH9jN0Iqi.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Royal_Tailor_2014/The_Royal_Tailor_2014_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "The Royal Tailor (Sang-eui-won) บันทึกลับช่างอาภรณ์แห่งโชซอน (2014)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241129210621zrWD1J3CRamqGgHm5UgH9jN0Iqi.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Royal_Tailor_2014/The_Royal_Tailor_2014_KR_1080p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Look Out, Officer! คนเล็กทะลุโลก (1990)",
+   "image": "https://img.inwiptv.net/postor/20241129210348gk6x0F3ItJLzPQuQFoeMx5AS4eU.jpg",
+   "stations": [
+    {
+     "name": "Look Out, Officer! คนเล็กทะลุโลก (1990)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241129210348gk6x0F3ItJLzPQuQFoeMx5AS4eU.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Look_Out_Officer_1990/Look_Out_Officer_1990_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Look Out, Officer! คนเล็กทะลุโลก (1990)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241129210348gk6x0F3ItJLzPQuQFoeMx5AS4eU.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Look_Out_Officer_1990/Look_Out_Officer_1990_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Thirty Million Dollar Rush โกยเถอะกู๋ หนูจะช่วย (1987)",
+   "image": "https://img.inwiptv.net/postor/20241128174214cs818CpIEClXKe8ezjitSNLTy6c.jpg",
+   "stations": [
+    {
+     "name": "The Thirty Million Dollar Rush โกยเถอะกู๋ หนูจะช่วย (1987)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241128174214cs818CpIEClXKe8ezjitSNLTy6c.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Thirty_Million_Dollar_Rush_1987/The_Thirty_Million_Dollar_Rush_1987_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "The Thirty Million Dollar Rush โกยเถอะกู๋ หนูจะช่วย (1987)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241128174214cs818CpIEClXKe8ezjitSNLTy6c.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/The_Thirty_Million_Dollar_Rush_1987/The_Thirty_Million_Dollar_Rush_1987_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Broker จัดหารัก (2022) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20241128173925x86xaUnxU31JYiwlO35corDEV1i.jpg",
+   "stations": [
+    {
+     "name": "Broker จัดหารัก (2022) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241128173925x86xaUnxU31JYiwlO35corDEV1i.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Broker_2022/Broker_2022_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Tales of Terror from Tokyo and All Over Japan: The Movie ผี 8 หลุม (2004)",
+   "image": "https://img.inwiptv.net/postor/20241127151652zxcasdasdsadsad.jpg",
+   "stations": [
+    {
+     "name": "Tales of Terror from Tokyo and All Over Japan: The Movie ผี 8 หลุม (2004)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241127151652zxcasdasdsadsad.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Tales_of_Terror_from_Tokyo_and_All_Over_Japan_The_Movie_2004/Tales_of_Terror_from_Tokyo_and_All_Over_Japan_The_Movie_2004_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Kamen Rider: The First มาสค์ไรเดอร์ เดอะ เฟิร์ส (2005)",
+   "image": "https://img.inwiptv.net/postor/20241127150132lHb2Bg2PizUig6tQa3xWy6CAGTz.jpg",
+   "stations": [
+    {
+     "name": "Kamen Rider: The First มาสค์ไรเดอร์ เดอะ เฟิร์ส (2005)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241127150132lHb2Bg2PizUig6tQa3xWy6CAGTz.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Kamen_Rider_The_First_2005/Kamen_Rider_The_First_2005_th_720.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Kamen Rider: The First มาสค์ไรเดอร์ เดอะ เฟิร์ส (2005)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241127150132lHb2Bg2PizUig6tQa3xWy6CAGTz.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Kamen_Rider_The_First_2005/Kamen_Rider_The_First_2005_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Face Reader ลิขิตฟ้า จอมบัลลังก์ (2013)",
+   "image": "https://img.inwiptv.net/postor/20241127145322aDKzIVKgBJRxwqPC4Stbj9qhfSB.jpg",
+   "stations": [
+    {
+     "name": "The Face Reader ลิขิตฟ้า จอมบัลลังก์ (2013)",
+     "info": " พากย์ไทย",
+     "image": "https://img.inwiptv.net/postor/20241127145322aDKzIVKgBJRxwqPC4Stbj9qhfSB.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Face_Reader_2013/The_Face_Reader_2013_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "The Face Reader ลิขิตฟ้า จอมบัลลังก์ (2013)",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241127145322aDKzIVKgBJRxwqPC4Stbj9qhfSB.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Face_Reader_2013/The_Face_Reader_2013_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Conquer: Lahad Datu ปฏิบัติการลาฮัดดาตู (2024) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20241125224304jpyuq6ClXoTyeNnjRKO5iI6v4SM.jpg",
+   "stations": [
+    {
+     "name": "Conquer: Lahad Datu ปฏิบัติการลาฮัดดาตู (2024) บรรยายไทย",
+     "info": " บรรยายไทย",
+     "image": "https://img.inwiptv.net/postor/20241125224304jpyuq6ClXoTyeNnjRKO5iI6v4SM.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie4/Conquer_Lahad_Datu_2024/Conquer_Lahad_Datu_2024_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
   {
    "name": "Ransomed คู่ระห่ำ ไถ่ข้ามโลก (2023)",
    "image": "https://img.inwiptv.net/postor/20241123152325yTyi44d1dcX5CiQrIQPkeydqTfS.jpg",
